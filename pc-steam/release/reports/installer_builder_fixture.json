@@ -1,0 +1,15 @@
+{
+    "status":  "PASS",
+    "builder_sha256":  "22a5b62aab90e48a6d311c2aed09b241fc8926c194197fa281ff374c6a0d8054",
+    "payload_link_mode":  "independent_copy",
+    "independent_file_id":  true,
+    "verify_exit_code":  0,
+    "verify_output":  [
+                          "{",
+                          "    \"status\":  \"PASS\",",
+                          "    \"package\":  \"P:\\\\AI\\\\Codex\\\\projects\\\\criminal-girls-invite-only-ko\\\\workspace\\\\installer_builder_fixture\\\\package\",",
+                          "    \"payload_sha256\":  \"30e14955ebf1352266dc2ff8067e68104607e750abb9d3b36582b8af909fcb58\"",
+                          "}"
+                      ],
+    "fixture_removed":  true
+}

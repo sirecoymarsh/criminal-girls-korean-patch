@@ -1,0 +1,13 @@
+{
+  "schema": "contextual-game-localization.legacy-project.v1",
+  "project_name": "Criminal Girls Invite Only Korean Localization",
+  "created_utc": "2026-08-12T07:52:03.688603Z",
+  "status": "discovery",
+  "game_root": "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only",
+  "game_root_policy": "read_only_until_explicit_install",
+  "source_inventory": "audit/original_inventory.json",
+  "source_inventory_sha256": "0378446cdf15611f33ca6e07a6cef9395231346257697bf1c96173e6a64c9238",
+  "requested_delivery": null,
+  "patched_game_dir": null,
+  "launch_this_exe": null
+}

@@ -1,0 +1,20 @@
+{
+    "schema":  "criminal-girls.release-tree-audit.v9",
+    "status":  "PASS",
+    "package":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v9",
+    "file_count":  9,
+    "exact_allowlist":  true,
+    "allowlist_delta":  [
+
+                        ],
+    "manifest_file_hash_errors":  [
+
+                                  ],
+    "reparse_point_count":  0,
+    "alternate_data_stream_count":  0,
+    "absolute_workstation_reference_count":  0,
+    "forbidden_reference_hits":  [
+
+                                 ],
+    "manifest_sha256":  "23779fc6de22b22b5befd77ed29c21535ad9f97bae421cd82883534058c1454c"
+}

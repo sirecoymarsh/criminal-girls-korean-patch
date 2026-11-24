@@ -1,0 +1,197 @@
+{
+  "schema": "criminal-girls.installer-release-verification.v2",
+  "status": "PASS",
+  "installed_to_original_game": false,
+  "manual_runtime_review": "PENDING_USER_SCREEN_CONFIRMATION",
+  "package": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v2",
+  "package_file_count": 9,
+  "manifest_sha256": "7cd91b335b172cdb4a2391a15bfbf35b2d7b19e034c82cec2ef9fe328ff54145",
+  "zip": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\CriminalGirlsInviteOnly_KoreanPatch_jp_final_v2.zip",
+  "zip_size": 1936654552,
+  "zip_sha256": "0cae884fc72443c6b3d96c0d4253aae3d413fdad24e6c0c4a7a8fedcdaae40d3",
+  "zip_member_count": 9,
+  "data_payload": {
+    "size": 1933928960,
+    "sha256": "3130a55f56a1a752b68b610bdd868f9db198b755154276cb1d410cf0405a76de",
+    "independent": true
+  },
+  "executable_payload": {
+    "size": 2686976,
+    "sha256": "6d0a97a90575c9c53af8d60b63d1ea8cfb3dbcb9ada2d13372da5e2de8f341ca",
+    "independent": true
+  },
+  "live_original": {
+    "game_root": "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only",
+    "data_sha256": "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+    "exe_sha256": "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d"
+  },
+  "coverage": {
+    "non_bscr_rows": 2709,
+    "bscr_occurrences": 48296,
+    "exe_literals": 66,
+    "localized_ui_logical_assets": 36,
+    "localized_ui_archive_entries": 72,
+    "standard_wansung_syllables": 2350,
+    "name_input_mode": "Jamo composition"
+  },
+  "checks": {
+    "candidate_qa_pass": true,
+    "translation_contract": true,
+    "all_supporting_reports_pass": true,
+    "manifest_schema_v2": true,
+    "translation_model_internal": true,
+    "package_exact_nine_file_allowlist": true,
+    "package_manifest_files_match": true,
+    "data_payload_matches_candidate": true,
+    "exe_payload_matches_candidate": true,
+    "payloads_are_independent_copies": true,
+    "extracted_payloads_match": true,
+    "zip_hash_bound": true,
+    "zip_exact_nine_members": true,
+    "live_original_data_unchanged": true,
+    "live_original_exe_unchanged": true,
+    "composition_static_pass": true,
+    "composition_patch_pass": true,
+    "ui_static_visual_qa_pass": true,
+    "runtime_font_pass": true,
+    "runtime_launch_stable": true
+  },
+  "errors": [],
+  "package_files": [
+    {
+      "path": "PatchCommon.ps1",
+      "size": 13954,
+      "sha256": "bccee43c5c28ee030c302d44cd71fcefef9b7fe3e60c7e3ecfe69e66b7bce5b0",
+      "ok": true
+    },
+    {
+      "path": "Install-KoreanPatch.ps1",
+      "size": 6054,
+      "sha256": "2d20b88705522c8cc4c48ca29eb748b57ea3fbffaf0e6e4eb2642db3c824a10a",
+      "ok": true
+    },
+    {
+      "path": "Recover-KoreanPatch.ps1",
+      "size": 5344,
+      "sha256": "f366e2d33b3a6fc260c423acea8bd98e17791050e77b18d041a93acb0f210119",
+      "ok": true
+    },
+    {
+      "path": "Restore-KoreanPatch.ps1",
+      "size": 5389,
+      "sha256": "f6bb020e2a3cc93de846318c1f6016f23fc55f9218a484ff9ed528171382854a",
+      "ok": true
+    },
+    {
+      "path": "Verify-KoreanPatch.ps1",
+      "size": 1174,
+      "sha256": "495cc797f5941bcf1a3964303e36a6b4324bb2e340a6d6964bb70af89f5b3e72",
+      "ok": true
+    },
+    {
+      "path": "README_KO.txt",
+      "size": 1483,
+      "sha256": "d747161f7ba3821e408880f5b2e9d0ce7949e95ee7e6f80fa26d1cdb6fe8f6e0",
+      "ok": true
+    },
+    {
+      "path": "payload/data_jp.dat",
+      "size": 1933928960,
+      "sha256": "3130a55f56a1a752b68b610bdd868f9db198b755154276cb1d410cf0405a76de",
+      "ok": true
+    },
+    {
+      "path": "payload/steam_criminal.exe",
+      "size": 2686976,
+      "sha256": "6d0a97a90575c9c53af8d60b63d1ea8cfb3dbcb9ada2d13372da5e2de8f341ca",
+      "ok": true
+    }
+  ],
+  "reports": {
+    "installer_package_build_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_package_build_v2.json",
+      "sha256": "b999c0a8b8fa9b8c8fea07b8d955c34528bd6a93db3af282ccb02f0279b36c44"
+    },
+    "installer_full_fixture_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_full_fixture_v2.json",
+      "sha256": "f3de8609e1d4ee41d2f4cdbb5e1fba77d327bc3d0df9d560d29b04d6c82911be"
+    },
+    "installer_mixed_rejection_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_mixed_rejection_v2.json",
+      "sha256": "9709a7714a307520526d246b410cbf72f3707112f89b5ea30ef2a3ea89d5f5f9"
+    },
+    "installer_recover_install_mixed_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_recover_install_mixed_v2.json",
+      "sha256": "3c4bfff450231ed64f1586d2607228f8ed47eddd51aa937108cbe77584b5ebbb"
+    },
+    "installer_recover_restore_mixed_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_recover_restore_mixed_v2.json",
+      "sha256": "e125361f15d2754d17ab40242665f48f48853316ab7b79b0697102609e311a1c"
+    },
+    "installer_backup_tamper_rejection_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_backup_tamper_rejection_v2.json",
+      "sha256": "b80de75824d20dece431abfa78d27e9cd65e895692b1fcdd2044ad0587114e86"
+    },
+    "installer_package_tamper_rejection_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_package_tamper_rejection_v2.json",
+      "sha256": "18bc18060457de5a84739ab96a933b6b32eec8ab83d45e0e3a51ee9935868d1c"
+    },
+    "installer_process_guard_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_process_guard_v2.json",
+      "sha256": "0eb74dd1202e8bd8e78732678092f875f47f6d99e713679476e90fff5ef91d24"
+    },
+    "installer_nth_replacement_rollback_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_nth_replacement_rollback_v2.json",
+      "sha256": "dabbdfc014d6cfaac72d75eac9829f062ed25d66b60f470b5e2da1df4a537599"
+    },
+    "installer_unknown_baseline_rejection_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_unknown_baseline_rejection_v2.json",
+      "sha256": "83e0e69ef5a4e9e9c66a7bba165d746835f644744262984fdf19f3cc1499006a"
+    },
+    "installer_different_path_process_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_different_path_process_v2.json",
+      "sha256": "e407775ec1fcedf27ec5c94b69a28a484b9dc077e772ce85c355384f7b1354f1"
+    },
+    "extracted_zip_install_restore_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\extracted_zip_install_restore_v2.json",
+      "sha256": "6b9c4bc59826f44c5cededf062fad6762567c67bfc0bf1ba2aeca4e034d70648"
+    },
+    "installer_idempotence_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_idempotence_v2.json",
+      "sha256": "ce78942b0e31b60f8634146528cbd0ed107385b8a6aa62b5e4fd6fcef8bd4623"
+    },
+    "installer_unicode_powershell51_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\installer_unicode_powershell51_v2.json",
+      "sha256": "413368cfe887a19997fb8cd6b773182c9051d412acaf88e41f1afe096e169726"
+    },
+    "release_static_integrity_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\release_static_integrity_v2.json",
+      "sha256": "e99b6ca7b9cdd6f3cb5e31dda706cc1caf72abab8ec1086aba16d2705a4720f6"
+    },
+    "defender_scan_korean_patch_jp_final_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\defender_scan_korean_patch_jp_final_v2.json",
+      "sha256": "13e2877e22d771e36fb68394453bd9dab15d90c9975bfe48289ead58fa045063"
+    },
+    "defender_scan_patched_exe_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\defender_scan_patched_exe_v2.json",
+      "sha256": "e28dd1fe28976e1c27713c50496b6b75de439c1bcafe32bf5cfd62075dde053e"
+    },
+    "release_zip_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\release_zip_v2.json",
+      "sha256": "1e6f79a6ea8afa15764fcbdc33756ebe1100ff418952f2f07ad0b9f28a3f6191"
+    },
+    "defender_scan_release_zip_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\defender_scan_release_zip_v2.json",
+      "sha256": "01bd28c79bb7a37c6d054c849d4577769d207554142dfcbd42d0ef9d61bfeaa5"
+    },
+    "release_zip_extraction_audit_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\release_zip_extraction_audit_v2.json",
+      "sha256": "19e3e9d8c5ef06cd000c593019a25570837b7f3a89b2453b0cb2f2929d5bbbfc"
+    },
+    "defender_scan_extracted_zip_v2.json": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\defender_scan_extracted_zip_v2.json",
+      "sha256": "91b33f59388e6af849b94279ca005fee55fbac67a300e48f7329d43d407e3490"
+    }
+  },
+  "zip_report_manifest_sha256": "7cd91b335b172cdb4a2391a15bfbf35b2d7b19e034c82cec2ef9fe328ff54145"
+}

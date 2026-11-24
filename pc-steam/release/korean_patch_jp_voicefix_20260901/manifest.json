@@ -1,0 +1,124 @@
+{
+  "schema": "criminal-girls-invite-only.ko-patch.v2",
+  "patch_version": "jp-antigravity-codex-voicefix-20260901",
+  "created_utc": "2026-09-01T00:58:16.403844+00:00",
+  "semantic_source_language": "ja-JP",
+  "target_language": "ko-KR",
+  "translation_provenance": {
+    "base_scenario": "Claude via Antigravity (user-declared imported delivery)",
+    "scenario_quality_corrections": "Codex internal",
+    "non_scenario_cumulative_base": "Codex internal",
+    "voice_and_combat_corrections": "Codex internal (gpt-5.5 / current root task)"
+  },
+  "non_bscr_translation_map_sha256": "32344851a3e6cb64fbd7215e0897efad096499708458508ddb5da840c0909280",
+  "scenario_translation_map_sha256": "ac317543f7be54461b5932271fc7a9a39e0af565dc767f0f355e94c955e06e2d",
+  "voice_fix_report_sha256": "c6d7fe445c32a90670fd40b251742a6272c0570725eea22c9dac08c7881d1846",
+  "staged_voice_name_verify_sha256": "dd586adabea621b5752abf732442407d8ec22324d47aa1c1207f919edc1bead3",
+  "final_candidate_audit_sha256": "8874fca3eea9cfd8777b656129cfb243ee4a839b2cf2ab124a96d89806c826bf",
+  "preserved_english_data_sha256": "d50e79521981f5ff970274f104af1dc62317848a3aa6fede2aafd78fdb1b494b",
+  "installed_to_game": false,
+  "runtime_language_selector": {
+    "path": "SaveDataFolder/option.dat",
+    "offset": 8,
+    "type": "uint8",
+    "english_value": 0,
+    "korean_japanese_slot_value": 1,
+    "visible_english_name_symptom": "Tomoe/Tomoe Harukawa"
+  },
+  "game": {
+    "executable_relative_path": "steam_criminal.exe",
+    "targets": [
+      {
+        "id": "data_jp",
+        "relative_path": "data/data_jp.dat",
+        "payload_path": "payload/data_jp.dat",
+        "backup_name": "data_jp.dat",
+        "baseline_size": 1931410944,
+        "baseline_sha256": "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+        "patched_size": 1933754880,
+        "patched_sha256": "ae645150dd0ec660e7751765c984a9027e0650c6d4f53442877ad8214df6f66f"
+      },
+      {
+        "id": "executable",
+        "relative_path": "steam_criminal.exe",
+        "payload_path": "payload/steam_criminal.exe",
+        "backup_name": "steam_criminal.exe",
+        "baseline_size": 1929728,
+        "baseline_sha256": "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d",
+        "patched_size": 2518528,
+        "patched_sha256": "9b2c233a7b08ca7f36aa28a93d84351b298689e97dae1c57c7f251a7463cb35d"
+      }
+    ]
+  },
+  "coverage": {
+    "non_bscr_rows": 2709,
+    "non_bscr_voice_changed_rows": 119,
+    "non_bscr_voice_changed_occurrences": 655,
+    "battle_voice_changed_rows": 56,
+    "tomoe_field_changed_rows": 30,
+    "tomoe_order_status_changed_rows": 10,
+    "tomoe_punishment_changed_rows": 23,
+    "verified_tomoe_name_occurrences": 3,
+    "bscr_occurrences": 48296,
+    "exe_literals": 63,
+    "localized_ui_logical_assets": 36,
+    "localized_ui_archive_entries": 72,
+    "standard_wansung_syllables": 2350
+  },
+  "outer_archive_audit": {
+    "entry_count": 8442,
+    "replaced_entries": 241,
+    "unchanged_entries": 8201,
+    "all_other_payloads_byte_identical": true
+  },
+  "files": [
+    {
+      "path": "PatchCommon.ps1",
+      "role": "shared transactional installer functions",
+      "size": 13954,
+      "sha256": "bccee43c5c28ee030c302d44cd71fcefef9b7fe3e60c7e3ecfe69e66b7bce5b0"
+    },
+    {
+      "path": "Install-KoreanPatch.ps1",
+      "role": "transactional two-target installer",
+      "size": 6054,
+      "sha256": "2d20b88705522c8cc4c48ca29eb748b57ea3fbffaf0e6e4eb2642db3c824a10a"
+    },
+    {
+      "path": "Recover-KoreanPatch.ps1",
+      "role": "interrupted-transaction recovery",
+      "size": 5344,
+      "sha256": "f366e2d33b3a6fc260c423acea8bd98e17791050e77b18d041a93acb0f210119"
+    },
+    {
+      "path": "Restore-KoreanPatch.ps1",
+      "role": "transactional two-target restorer",
+      "size": 5389,
+      "sha256": "f6bb020e2a3cc93de846318c1f6016f23fc55f9218a484ff9ed528171382854a"
+    },
+    {
+      "path": "Verify-KoreanPatch.ps1",
+      "role": "read-only package and game verifier",
+      "size": 1174,
+      "sha256": "495cc797f5941bcf1a3964303e36a6b4324bb2e340a6d6964bb70af89f5b3e72"
+    },
+    {
+      "path": "README_KO.txt",
+      "role": "Korean install, language-slot, restore instructions",
+      "size": 1856,
+      "sha256": "8bb989f105f087bba89204848a227620316465ac1c761d6a41dcff654359df37"
+    },
+    {
+      "path": "payload/data_jp.dat",
+      "role": "cumulative Korean Japanese-slot archive with scenario and non-BSCR voice fixes",
+      "size": 1933754880,
+      "sha256": "ae645150dd0ec660e7751765c984a9027e0650c6d4f53442877ad8214df6f66f"
+    },
+    {
+      "path": "payload/steam_criminal.exe",
+      "role": "validated Korean executable with Hangul name input",
+      "size": 2518528,
+      "sha256": "9b2c233a7b08ca7f36aa28a93d84351b298689e97dae1c57c7f251a7463cb35d"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "criminal-girls.runtime-launch-voicefix.v1",
+  "created_utc": "2026-09-01T01:07:50.197192+00:00",
+  "status": "STATIC_AND_LIVE_INSTALL_PASS__MANUAL_BATTLE_SCREEN_PENDING",
+  "game_root": "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only",
+  "launch_attempted": true,
+  "launch_observation": "steam_criminal.exe process started and the language selector remained 1; the process did not remain open long enough for automated battle-screen navigation, matching the earlier short-run behavior",
+  "application_error_event_found": false,
+  "language_selector_after_launch": 1,
+  "display_mode_after_launch": 1,
+  "live_hashes": {
+    "data_jp": "ae645150dd0ec660e7751765c984a9027e0650c6d4f53442877ad8214df6f66f",
+    "data_en": "d50e79521981f5ff970274f104af1dc62317848a3aa6fede2aafd78fdb1b494b",
+    "executable": "9b2c233a7b08ca7f36aa28a93d84351b298689e97dae1c57c7f251a7463cb35d"
+  },
+  "checks": {
+    "live_data_matches_candidate": true,
+    "live_executable_matches_candidate": true,
+    "english_archive_preserved": true,
+    "korean_japanese_slot_selected": true
+  },
+  "staged_runtime_string_verification": "audit/staged_voice_name_verify_20260901.json",
+  "live_install_verification": "release/reports/live_install_voicefix_20260901.json",
+  "manual_scope": "Load a battle save and visually confirm Tomoe battle lines and post-battle name rendering."
+}

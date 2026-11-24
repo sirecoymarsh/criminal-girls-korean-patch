@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "total_unique": 2709,
+    "review_complete": 2637,
+    "preserve": 72,
+    "empty": 0,
+    "replacement_chars": 0,
+    "japanese_kana_remaining": 0,
+    "cjk_remaining": 0,
+    "particle_placeholders": 0,
+    "newline_mismatches": 0,
+    "bracket_mismatches": 0,
+    "issue_rows": 0,
+    "passed": true
+  },
+  "issues": []
+}

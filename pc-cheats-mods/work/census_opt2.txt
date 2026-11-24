@@ -1,0 +1,8 @@
+ad2d0   004f0670      43 ecx=00000000 edx=00000000 esi=0cd419a0
+ad420   004ead85     129 ecx=000000da edx=000000c4 esi=0cd41720
+d5fe0   004f06fe      43 ecx=00000000 edx=00000000 esi=0cd41920
+fbac0   004f074c      43 ecx=147a9298 edx=00000000 esi=0cd41920
+fbac0   004f0811     129 ecx=147a8fa4 edx=00000000 esi=0aadf8b4
+text    004f0848      43 ecx=145bb6e8 edx=00000000 esi=0aadf8b8
+widget  004f0741      43 ecx=147a9298 edx=00000000 esi=0cd41920
+widget  004f080a     129 ecx=147a8fa4 edx=00000004 esi=0aadf8b4

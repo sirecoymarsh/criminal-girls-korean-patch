@@ -1,0 +1,16 @@
+{
+    "status":  "PASS",
+    "pid":  23572,
+    "option_before":  "00 10 00 00 70 08 00 00 00 01 00 01 00 FF FF FF",
+    "option_after":  "00 10 00 00 70 08 00 00 01 00 00 01 00 FF FF FF",
+    "language_byte_offset":  8,
+    "language_value":  1,
+    "language_branch":  "Japanese -\u003e Korean patched data_jp.dat",
+    "fullscreen_byte_offset":  9,
+    "fullscreen_value":  0,
+    "display_mode":  "windowed",
+    "window_title":  "Criminal Girls Invite Only",
+    "responding":  true,
+    "activated":  true,
+    "live_game_modified":  false
+}

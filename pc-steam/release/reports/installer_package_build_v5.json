@@ -1,0 +1,19 @@
+{
+  "schema": "criminal-girls.installer-package-build.v2",
+  "status": "PASS",
+  "package": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v5",
+  "allowlisted_files": 9,
+  "payload_link_mode": "independent_copy",
+  "payloads": {
+    "data_jp": {
+      "size": 1933754880,
+      "sha256": "31db8e54cb1e8f333fbfcbc9c39866f9b4d277cd0a216bb67d2a7e6249bc0f95"
+    },
+    "executable": {
+      "size": 2519040,
+      "sha256": "c88ed3b4d2703f881cbb89c7e5c0cb173198c038c6a3b8e7ae8d399abd34e68a"
+    }
+  },
+  "manifest_sha256": "49ee454d9e090d90853d19d237f20ef20d9732f0c7686d54e083fd595b7ad869",
+  "installed_to_game": false
+}

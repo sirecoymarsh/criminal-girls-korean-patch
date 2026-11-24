@@ -1,0 +1,89 @@
+{
+  "schema": "criminal-girls.completion-audit.v8",
+  "status": "PENDING_USER_V24_HELP_CONFIRMATION_AND_LIVE_INSTALL_APPROVAL",
+  "objective": "번역과 UI를 모두 끝마쳐라. 번역은 코덱스 내부모델로만 해라.",
+  "translation_contract": {
+    "semantic_source": "Japanese",
+    "replacement_slot": "Japanese",
+    "preserved_archive": "English",
+    "translation_model": "Codex internal model"
+  },
+  "coverage": {
+    "bscr_occurrences": 48296,
+    "non_bscr_rows": 2709,
+    "exe_literals": 63,
+    "ui_logical_assets": 36,
+    "ui_archive_entries": 72,
+    "outer_replacements": 241,
+    "standard_wansung_syllables": 2350
+  },
+  "checks": {
+    "full_candidate_all_checks": true,
+    "ui_original_design_static_visual_qa": true,
+    "original_japanese_selector_preserved": true,
+    "korean_english_numeric_name_input_static": true,
+    "enter_selected_japanese_help_pointer_relocated": true,
+    "enter_selected_japanese_help_nul_terminated": true,
+    "enter_selected_japanese_help_aslr_safe": true,
+    "installer_matrix_7_cases": true,
+    "zip_9_members_hash_exact": true,
+    "defender_package_scan_no_threats": true,
+    "original_f_files_unchanged": true,
+    "release_tree_exact_allowlist_no_reparse_ads_or_path_leak": true,
+    "patched_exe_defender_scan_no_threats": true,
+    "zip_defender_scan_no_threats": true,
+    "extracted_zip_defender_scan_no_threats": true,
+    "fresh_zip_extraction_hash_exact": true,
+    "fresh_extracted_zip_install_restore_pass": true
+  },
+  "runtime": {
+    "v23_user_confirmation": "아주 잘된다",
+    "v24_process_launched": true,
+    "v24_executable": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\runtime_ko_jp_windowed_v24\\steam_criminal.exe",
+    "v24_enter_help_visual_confirmation": "PENDING"
+  },
+  "artifacts": {
+    "package": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v8",
+    "zip": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\CriminalGirlsInviteOnly_KoreanPatch_jp_final_v8.zip",
+    "data_sha256": "31db8e54cb1e8f333fbfcbc9c39866f9b4d277cd0a216bb67d2a7e6249bc0f95",
+    "exe_sha256": "5caf0761c46e94bb1f67b120be7e450636a960554a70e69a687b23488dc1450e",
+    "zip_sha256": "afb97032539188c26d5ce97c2a4909594c3164e02834a7ef2c3d6a96277da163",
+    "manifest_sha256": "4c4ec5463ddfca9a97c4752242e03a0733bb02af925e4e31da67651babb7a2b6"
+  },
+  "original_f_sha256": {
+    "data_jp": "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+    "data_en": "d50e79521981f5ff970274f104af1dc62317848a3aa6fede2aafd78fdb1b494b",
+    "exe": "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d"
+  },
+  "remaining": [
+    "v24 이름 입력 하단 정보판의 Enter 선택한 일본어 입력 문구가 잘림 없이 보이는지 사용자 확인",
+    "F 드라이브 실게임 설치 승인",
+    "설치 후 라이브 파일 해시 및 창모드 실행 확인"
+  ],
+  "distribution_evidence": {
+    "release_tree": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\release_tree_audit_v8.json",
+      "sha256": "475fdaf1d64f0e1cfb2c981926809800dcc81caf8d525e418eea5d170c221ac0"
+    },
+    "zip_extraction": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\release_zip_extraction_audit_v8.json",
+      "sha256": "0cdf8a8157592ff13a389d48de71f54b3b9a4c88afce5480802220960de19c1a"
+    },
+    "defender_exe": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\defender_scan_patched_exe_v8.json",
+      "sha256": "deddd839f6b0473fc486567ef0b59937474e3673018f4cc9426c20bf169c9537"
+    },
+    "defender_zip": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\defender_scan_release_zip_v8.json",
+      "sha256": "13eae18d435d390e0b77421cd0246393eab762f594f330dd54705b8088fc1987"
+    },
+    "defender_extracted": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\defender_scan_extracted_zip_v8.json",
+      "sha256": "823ab72bdaaa530b7c62c0fd7bce576c59489143ba1aafb1f449f178432e42ee"
+    },
+    "extracted_install_restore": {
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\extracted_zip_install_restore_v8.json",
+      "sha256": "a35575f09683a385d55d7f6b720c6706a9172cbf3a76c9c1753efe25330df6be"
+    }
+  }
+}

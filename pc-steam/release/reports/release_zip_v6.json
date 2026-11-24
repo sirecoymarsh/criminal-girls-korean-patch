@@ -1,0 +1,61 @@
+{
+  "schema": "criminal-girls.release-zip.v6",
+  "status": "PASS",
+  "package": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v6",
+  "zip": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\CriminalGirlsInviteOnly_KoreanPatch_jp_final_v6.zip",
+  "zip_size": 1936312997,
+  "zip_sha256": "917b5855fb29a3c97a322f68a33561e4ac46436965f6b9ff613a7b2a1f9f5e4e",
+  "zip_member_count": 9,
+  "zip64": false,
+  "compression": "stored",
+  "exact_member_allowlist": true,
+  "all_member_hashes_match_package": true,
+  "mismatches": [],
+  "members": [
+    {
+      "path": "Install-KoreanPatch.ps1",
+      "size": 6054,
+      "sha256": "2d20b88705522c8cc4c48ca29eb748b57ea3fbffaf0e6e4eb2642db3c824a10a"
+    },
+    {
+      "path": "PatchCommon.ps1",
+      "size": 13954,
+      "sha256": "bccee43c5c28ee030c302d44cd71fcefef9b7fe3e60c7e3ecfe69e66b7bce5b0"
+    },
+    {
+      "path": "README_KO.txt",
+      "size": 1969,
+      "sha256": "a0db0c68e439197c090db7ff028f10d40de449540420fb943817545be80738ef"
+    },
+    {
+      "path": "Recover-KoreanPatch.ps1",
+      "size": 5344,
+      "sha256": "f366e2d33b3a6fc260c423acea8bd98e17791050e77b18d041a93acb0f210119"
+    },
+    {
+      "path": "Restore-KoreanPatch.ps1",
+      "size": 5389,
+      "sha256": "f6bb020e2a3cc93de846318c1f6016f23fc55f9218a484ff9ed528171382854a"
+    },
+    {
+      "path": "Verify-KoreanPatch.ps1",
+      "size": 1174,
+      "sha256": "495cc797f5941bcf1a3964303e36a6b4324bb2e340a6d6964bb70af89f5b3e72"
+    },
+    {
+      "path": "manifest.json",
+      "size": 3431,
+      "sha256": "0dd7d9cb8238b820ff64ec1f0e2303506b324d53421770604ce6ef8d0e82032a"
+    },
+    {
+      "path": "payload/data_jp.dat",
+      "size": 1933754880,
+      "sha256": "31db8e54cb1e8f333fbfcbc9c39866f9b4d277cd0a216bb67d2a7e6249bc0f95"
+    },
+    {
+      "path": "payload/steam_criminal.exe",
+      "size": 2519040,
+      "sha256": "28c80200f5bfbd483bca905e441be878eb8204740e01a38d4a51a07c2b269435"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "source_catalog_entries": 19405,
+  "unique_sources": 2709,
+  "pending_draft": 2637,
+  "preserved": 72,
+  "batch_size": 100,
+  "batch_count": 27,
+  "policy": "Codex internal model only; finish all draft packets before the single integrated review pass."
+}

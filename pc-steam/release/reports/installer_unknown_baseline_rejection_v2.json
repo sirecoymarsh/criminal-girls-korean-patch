@@ -1,0 +1,14 @@
+{
+    "schema":  "criminal-girls.installer-unknown-baseline-rejection.v2",
+    "status":  "PASS",
+    "exit_code":  1,
+    "output":  "Install requires both exact original files. Current state: unsupported. Use Recover-KoreanPatch.ps1 only for a recorded\n interrupted transaction.\nAt P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v2\\Install-KoreanPatch.ps1:50 char:\n5\n+     throw \"Install requires both exact original files. Current state: ...\n+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n    + CategoryInfo          : OperationStopped: (Install require...ed transaction.:String) [], RuntimeException\n    + FullyQualifiedErrorId : Install requires both exact original files. Current state: unsupported. Use Recover-Kore \n   anPatch.ps1 only for a recorded interrupted transaction.\n ",
+    "unknown_exe_sha256":  "03b70f48279743d85418caebf2244108bd11fcd5ba6d99f44bfee1f9c235c292",
+    "after_rejection_exe_sha256":  "03b70f48279743d85418caebf2244108bd11fcd5ba6d99f44bfee1f9c235c292",
+    "data_before":  "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+    "data_after":  "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+    "state_files_created":  [
+
+                            ],
+    "cleanup_exe_sha256":  "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d"
+}

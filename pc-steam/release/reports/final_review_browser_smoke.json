@@ -1,0 +1,8 @@
+{
+    "status":  "PASS",
+    "browser":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "main_dom_loaded":  true,
+    "scenario_dom_rows":  2709,
+    "installer_dom_loaded":  true,
+    "tested_at":  "2026-08-12T23:27:13.4279766+09:00"
+}

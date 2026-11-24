@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "status": "draft_before_integrated_review",
+  "terms": [
+    {"ja": "キサラギ", "ko": "키사라기", "type": "character"},
+    {"ja": "ラン", "ko": "란", "type": "character"},
+    {"ja": "アリス", "ko": "앨리스", "type": "character"},
+    {"ja": "トモエ", "ko": "토모에", "type": "character"},
+    {"ja": "サコ", "ko": "사코", "type": "character"},
+    {"ja": "ユコ", "ko": "유코", "type": "character"},
+    {"ja": "シン", "ko": "신", "type": "character"},
+    {"ja": "ミウ", "ko": "미우", "type": "character"},
+    {"ja": "ヒメカミ", "ko": "히메카미", "type": "character"},
+    {"ja": "おしおき", "ko": "벌주기", "type": "system", "approval": "pending_ui_review"},
+    {"ja": "更生", "ko": "갱생", "type": "system"},
+    {"ja": "ＯＰ", "ko": "OP", "type": "stat"},
+    {"ja": "ＨＰ", "ko": "HP", "type": "stat"},
+    {"ja": "ＭＰ", "ko": "MP", "type": "stat"},
+    {"ja": "ＥＸＰ", "ko": "EXP", "type": "stat"}
+  ]
+}

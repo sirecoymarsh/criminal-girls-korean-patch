@@ -1,0 +1,13 @@
+{
+    "status":  "PASS",
+    "package":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v1",
+    "allowlisted_files":  8,
+    "payload_link_mode":  "independent_copy",
+    "payload_size":  1987245568,
+    "payload_sha256":  "9e50e890c0241562db6f19282f89678c7ecb347f92c5122a7eb72946f303e347",
+    "manifest_sha256":  "91c93e6fed0f86e4fe07fe2ee45df96c1ce08ff4c2ee67a610d3189daf9349a4",
+    "installed_to_game":  false,
+    "payload_detached_from_candidate":  true,
+    "payload_file_id":  "File ID is 0x000000000000000000020000002e8514",
+    "candidate_file_id":  "File ID is 0x000000000000000000010000002e7faa"
+}

@@ -1,0 +1,48 @@
+{
+    "status":  "PASS",
+    "source_package":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v2",
+    "disposable_scan_copy":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\defender_scan_korean_patch_jp_final_v2",
+    "started_at":  "2026-08-13T19:18:48.9611602+09:00",
+    "ended_at":  "2026-08-13T19:18:49.0962160+09:00",
+    "duration_seconds":  0.135,
+    "scan_tool":  "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26070.9-0\\MpCmdRun.exe",
+    "scan_exit_code":  0,
+    "scan_output":  [
+                        "Scan starting...",
+                        "Scan finished.",
+                        "Scanning P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\defender_scan_korean_patch_jp_final_v2 found no threats."
+                    ],
+    "file_count":  9,
+    "manifest_sha256":  "7cd91b335b172cdb4a2391a15bfbf35b2d7b19e034c82cec2ef9fe328ff54145",
+    "payloads":  [
+                     {
+                         "id":  "data_jp",
+                         "sha256":  "3130a55f56a1a752b68b610bdd868f9db198b755154276cb1d410cf0405a76de"
+                     },
+                     {
+                         "id":  "executable",
+                         "sha256":  "6d0a97a90575c9c53af8d60b63d1ea8cfb3dbcb9ada2d13372da5e2de8f341ca"
+                     }
+                 ],
+    "source_unchanged":  true,
+    "disposable_copy_unchanged":  true,
+    "detections_before_total":  15,
+    "detections_after_total":  15,
+    "new_detection_count":  0,
+    "scan_target_detection_count":  0,
+    "new_detections":  [
+
+                       ],
+    "scan_target_detections":  [
+
+                               ],
+    "defender":  {
+                     "am_service_enabled":  true,
+                     "antivirus_enabled":  true,
+                     "real_time_protection_enabled":  true,
+                     "engine_version":  "1.1.26070.7",
+                     "platform_version":  "4.18.26070.9",
+                     "signature_version":  "1.457.130.0",
+                     "signature_last_updated":  "2026-08-12T23:46:34.0000000+09:00"
+                 }
+}

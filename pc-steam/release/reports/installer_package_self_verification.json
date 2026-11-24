@@ -1,0 +1,24 @@
+{
+    "status":  "PASS",
+    "verified_at":  "2026-08-12T23:21:57.7817050+09:00",
+    "windows_powershell":  "5.1.26100.8972",
+    "exit_code":  0,
+    "output":  [
+                   "{",
+                   "    \"status\":  \"PASS\",",
+                   "    \"package\":  \"P:\\\\AI\\\\Codex\\\\projects\\\\criminal-girls-invite-only-ko\\\\release\\\\korean_patch_jp_final_v1\",",
+                   "    \"payload_sha256\":  \"9e50e890c0241562db6f19282f89678c7ecb347f92c5122a7eb72946f303e347\"",
+                   "}"
+               ],
+    "script_syntax":  {
+                          "PatchCommon.ps1":  true,
+                          "Install-KoreanPatch.ps1":  true,
+                          "Recover-KoreanPatch.ps1":  true,
+                          "Restore-KoreanPatch.ps1":  true,
+                          "Verify-KoreanPatch.ps1":  true
+                      },
+    "package_file_count":  8,
+    "manifest_sha256":  "91c93e6fed0f86e4fe07fe2ee45df96c1ce08ff4c2ee67a610d3189daf9349a4",
+    "payload_sha256":  "9e50e890c0241562db6f19282f89678c7ecb347f92c5122a7eb72946f303e347",
+    "expected_payload_sha256":  "9e50e890c0241562db6f19282f89678c7ecb347f92c5122a7eb72946f303e347"
+}

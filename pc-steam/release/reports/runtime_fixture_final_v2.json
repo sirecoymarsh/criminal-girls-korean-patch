@@ -1,0 +1,57 @@
+{
+    "schema":  "criminal-girls.runtime-fixture.final-v2",
+    "status":  "PASS",
+    "created_at":  "2026-08-13T15:02:26.1970569+09:00",
+    "fixture":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\runtime_review_final_v2",
+    "source_policy":  "P-drive staging only; F-drive untouched",
+    "hashes":  {
+                   "data_jp":  {
+                                   "expected":  "d0daaa5031b9ace7a7c939ed7f597c9a59b5b86cd071344843ca69fcc03de887",
+                                   "actual":  "d0daaa5031b9ace7a7c939ed7f597c9a59b5b86cd071344843ca69fcc03de887",
+                                   "match":  true
+                               },
+                   "data_en":  {
+                                   "expected":  "d50e79521981f5ff970274f104af1dc62317848a3aa6fede2aafd78fdb1b494b",
+                                   "actual":  "d50e79521981f5ff970274f104af1dc62317848a3aa6fede2aafd78fdb1b494b",
+                                   "match":  true
+                               },
+                   "exe":  {
+                               "expected":  "e3be3733728e645e45d80c928e3b02a614d68eb078528740f9230dcb09d80487",
+                               "actual":  "e3be3733728e645e45d80c928e3b02a614d68eb078528740f9230dcb09d80487",
+                               "match":  true
+                           }
+               },
+    "option":  {
+                   "path":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\runtime_review_final_v2\\SaveDataFolder\\option.dat",
+                   "length":  16,
+                   "language_offset":  8,
+                   "language_value":  1,
+                   "fullscreen_offset":  9,
+                   "fullscreen_value":  0,
+                   "mode":  "Japanese-slot/Korean + windowed"
+               },
+    "dlls":  [
+                 {
+                     "name":  "cg.dll",
+                     "sha256":  "d7c5eadbcad39cbb2e6a3ec839d747bf85f3470cf07c9e5c9873546bd6197b2e",
+                     "size":  8531264
+                 },
+                 {
+                     "name":  "cgD3D9.dll",
+                     "sha256":  "ee53cefd468d9fca36c8dc32f196e2abf77537ec7492cf77349c221230b96b64",
+                     "size":  1045824
+                 },
+                 {
+                     "name":  "sdkencryptedappticket.dll",
+                     "sha256":  "6791d171731897e58908316e3e1635497b5b5beff49c7b270b04b4888e13686f",
+                     "size":  537792
+                 },
+                 {
+                     "name":  "steam_api.dll",
+                     "sha256":  "eaeaf26f60229ae4d1a9aae07d03ab4e93ea599dd883eb810d6adebcf0e52e14",
+                     "size":  1488896
+                 }
+             ],
+    "launch_count":  0,
+    "runtime_status":  "ready_for_single_integrated_run"
+}

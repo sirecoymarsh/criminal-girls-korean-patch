@@ -1,0 +1,20 @@
+{
+    "schema":  "criminal-girls.installer-nth-replacement-rollback.v2",
+    "status":  "PASS",
+    "exit_code":  1,
+    "output":  "Install failed and both original files were restored: TEST_ONLY_FAIL_AFTER_FIRST_REPLACEMENT\nAt P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\installer_v2_nth_failure_package_20260813_retry\\Install\n-KoreanPatch.ps1:134 char:5\n+     throw \"Install failed and both original files were restored: $fai ...\n+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n    + CategoryInfo          : OperationStopped: (Install failed ...RST_REPLACEMENT:String) [], RuntimeException\n    + FullyQualifiedErrorId : Install failed and both original files were restored: TEST_ONLY_FAIL_AFTER_FIRST_REPLACE \n   MENT\n ",
+    "before":  {
+                   "data":  "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+                   "exe":  "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d"
+               },
+    "after":  {
+                  "data":  "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+                  "exe":  "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d"
+              },
+    "journal_count":  1,
+    "journal_status":  "rolled_back",
+    "leftover_transaction_files":  [
+
+                                   ],
+    "test_package":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\installer_v2_nth_failure_package_20260813_retry"
+}

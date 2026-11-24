@@ -1,0 +1,35 @@
+{
+  "schema": "criminal-girls.live-install-voicefix.v1",
+  "status": "PASS",
+  "verified_utc": "2026-09-01T01:02:19.6807866Z",
+  "package": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_voicefix_20260901",
+  "game_root": "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only",
+  "game_state": "korean",
+  "targets": [
+    {
+      "id": "data_jp",
+      "path": "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only\\data\\data_jp.dat",
+      "state": "korean",
+      "size": 1933754880,
+      "sha256": "ae645150dd0ec660e7751765c984a9027e0650c6d4f53442877ad8214df6f66f"
+    },
+    {
+      "id": "executable",
+      "path": "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only\\steam_criminal.exe",
+      "state": "korean",
+      "size": 2518528,
+      "sha256": "9b2c233a7b08ca7f36aa28a93d84351b298689e97dae1c57c7f251a7463cb35d"
+    }
+  ],
+  "english_archive_sha256": "d50e79521981f5ff970274f104af1dc62317848a3aa6fede2aafd78fdb1b494b",
+  "english_archive_preserved": true,
+  "language_selector_offset": 8,
+  "language_selector_value": 1,
+  "display_mode_offset": 9,
+  "display_mode_value": 1,
+  "stale_temp_files_removed": 1,
+  "tomoe_static_names_verified": [
+    "토모에",
+    "하루카와 토모에"
+  ]
+}

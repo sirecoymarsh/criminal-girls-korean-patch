@@ -1,0 +1,19 @@
+{
+  "schema": "criminal-girls.live-language-selector.v1",
+  "status": "PASS",
+  "path": "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only\\SaveDataFolder\\option.dat",
+  "backup": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\install_backups\\voicefix_20260901_live\\option_language_slot\\option.dat.before_slotfix_2c7b0ec375e0898454a7002643d9a8abb4a457100e8f42b72f7472b208d2da37.dat",
+  "sha256_before": "2c7b0ec375e0898454a7002643d9a8abb4a457100e8f42b72f7472b208d2da37",
+  "sha256_after": "a0edf89328709b293964493779036146e6502c335389c80026f671f5d3509f9a",
+  "selector_offset": 8,
+  "value_before": 0,
+  "value_after": 1,
+  "display_mode_offset": 9,
+  "display_mode_preserved": true,
+  "display_mode_value": 1,
+  "expected_runtime_slot": "Japanese archive containing Korean",
+  "tomoe_display_names": [
+    "토모에",
+    "하루카와 토모에"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "semantic_source_language": "Japanese (ja-JP)",
+  "english_reference_role": "non-authoritative reference only",
+  "draft_model": "Codex internal model",
+  "integrated_review_model": "Codex internal model",
+  "total_unique_strings": 2709,
+  "review_complete": 2637,
+  "preserve": 72,
+  "corrections_applied": 23,
+  "development_placeholders_restored": 2,
+  "input_sha256": "26349df79603bc307a95ad5620dff3b35f8b70e9385394e1606b3a9b692bc361",
+  "output_sha256": "c3d75f62ee400b0894fdf6e2a95610da6378515c39588970e0477aaed907430f",
+  "changes_sha256": "9953e1309df16d43862dff4c3aeb20fc44fda1e9a2a246401cf15d1d42dbd643"
+}

@@ -1,0 +1,13 @@
+{
+    "status":  "PASS",
+    "preview_root":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\runtime_review_jp_v1",
+    "source_game":  "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only",
+    "source_file_count":  7,
+    "copied_original_files":  6,
+    "preview_file_count":  7,
+    "patched_archive_sha256":  "9e50e890c0241562db6f19282f89678c7ecb347f92c5122a7eb72946f303e347",
+    "live_original_sha256":  "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+    "live_original_unchanged":  true,
+    "installed_to_live_game":  false,
+    "verified_at":  "2026-08-12T23:31:17.7704357+09:00"
+}

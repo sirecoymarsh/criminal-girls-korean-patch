@@ -1,0 +1,12 @@
+{
+  "total_unique": 2709,
+  "reviewed_translations": 2637,
+  "overrides_applied": 47,
+  "status_counts": {
+    "review_complete": 2637,
+    "preserve": 72
+  },
+  "integrated_review_started": true,
+  "integrated_review_complete": true,
+  "reviewer": "Codex internal model"
+}

@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "semantic_source_language": "Japanese (ja-JP)",
+  "review_model": "Codex internal model",
+  "integrated_review": true,
+  "total_unique_strings": 2709,
+  "review_complete": 2637,
+  "preserve": 72,
+  "catalog_occurrences": 19405,
+  "issue_count": 0,
+  "issue_counts": {},
+  "final_sha256": "c3d75f62ee400b0894fdf6e2a95610da6378515c39588970e0477aaed907430f",
+  "baseline_sha256": "26349df79603bc307a95ad5620dff3b35f8b70e9385394e1606b3a9b692bc361",
+  "catalog_sha256": "3ff338edd0a9fed5f90214985f6ba2d75acd819e08eb798e15c1a2a074bbf84a",
+  "issues": []
+}

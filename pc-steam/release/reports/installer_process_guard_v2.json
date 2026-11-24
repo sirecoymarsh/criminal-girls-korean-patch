@@ -1,0 +1,19 @@
+{
+    "schema":  "criminal-girls.installer-process-guard.v2",
+    "status":  "PASS",
+    "pid":  49448,
+    "exit_code":  1,
+    "output":  "The target game process is running (PID 49448): P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\runtime_re\nview_composition_v10\\steam_criminal.exe\nAt P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v2\\PatchCommon.ps1:134 char:13\n+             throw \"The target game process is running (PID $($process ...\n+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n    + CategoryInfo          : OperationStopped: (The target game...am_criminal.exe:String) [], RuntimeException\n    + FullyQualifiedErrorId : The target game process is running (PID 49448): P:\\AI\\Codex\\projects\\criminal-girls-invi \n   te-only-ko\\workspace\\runtime_review_composition_v10\\steam_criminal.exe\n ",
+    "before":  {
+                   "data":  "3130a55f56a1a752b68b610bdd868f9db198b755154276cb1d410cf0405a76de",
+                   "exe":  "6d0a97a90575c9c53af8d60b63d1ea8cfb3dbcb9ada2d13372da5e2de8f341ca"
+               },
+    "after":  {
+                  "data":  "3130a55f56a1a752b68b610bdd868f9db198b755154276cb1d410cf0405a76de",
+                  "exe":  "6d0a97a90575c9c53af8d60b63d1ea8cfb3dbcb9ada2d13372da5e2de8f341ca"
+              },
+    "process_still_running":  true,
+    "state_files_created":  [
+
+                            ]
+}

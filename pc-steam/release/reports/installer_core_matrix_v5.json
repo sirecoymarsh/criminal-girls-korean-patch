@@ -1,0 +1,77 @@
+{
+    "schema":  "criminal-girls.installer-core-matrix.v3",
+    "status":  "PASS",
+    "package":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v5",
+    "manifest_sha256":  "49ee454d9e090d90853d19d237f20ef20d9732f0c7686d54e083fd595b7ad869",
+    "data_payload_sha256":  "31db8e54cb1e8f333fbfcbc9c39866f9b4d277cd0a216bb67d2a7e6249bc0f95",
+    "exe_payload_sha256":  "c88ed3b4d2703f881cbb89c7e5c0cb173198c038c6a3b8e7ae8d399abd34e68a",
+    "case_count":  7,
+    "cases":  [
+                  {
+                      "name":  "package_integrity",
+                      "status":  "PASS",
+                      "details":  {
+                                      "exit":  0
+                                  }
+                  },
+                  {
+                      "name":  "exact_process_guard",
+                      "status":  "PASS",
+                      "details":  {
+                                      "unchanged":  true,
+                                      "exit":  1
+                                  }
+                  },
+                  {
+                      "name":  "full_install_verify_restore_idempotence_different_path_process",
+                      "status":  "PASS",
+                      "details":  {
+                                      "install":  0,
+                                      "restore_again":  0,
+                                      "restore":  0,
+                                      "verify_korean":  0,
+                                      "verify_original":  0,
+                                      "install_again":  0
+                                  }
+                  },
+                  {
+                      "name":  "mixed_state_rejected",
+                      "status":  "PASS",
+                      "details":  {
+                                      "unchanged":  true,
+                                      "install_exit":  1,
+                                      "verify_exit":  1
+                                  }
+                  },
+                  {
+                      "name":  "unknown_baseline_rejected",
+                      "status":  "PASS",
+                      "details":  {
+                                      "unchanged":  true,
+                                      "exit":  1
+                                  }
+                  },
+                  {
+                      "name":  "tampered_package_rejected",
+                      "status":  "PASS",
+                      "details":  {
+                                      "unchanged":  true,
+                                      "install_exit":  1,
+                                      "verify_exit":  1
+                                  }
+                  },
+                  {
+                      "name":  "exact_script_regression_bridge",
+                      "status":  "PASS",
+                      "details":  {
+                                      "prior_full_matrix":  "release/reports/installer_release_verification_v2.json",
+                                      "byte_identical":  true,
+                                      "script_count":  5
+                                  }
+                  }
+              ],
+    "leftover_transaction_files":  [
+
+                                   ],
+    "baseline_fixture_unchanged":  true
+}

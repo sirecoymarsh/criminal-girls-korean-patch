@@ -1,0 +1,69 @@
+{
+    "schema":  "criminal-girls.release-zip-extraction-audit.v2",
+    "status":  "PASS",
+    "zip":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\CriminalGirlsInviteOnly_KoreanPatch_jp_final_v2.zip",
+    "zip_sha256":  "0cae884fc72443c6b3d96c0d4253aae3d413fdad24e6c0c4a7a8fedcdaae40d3",
+    "extracted_package":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\release_zip_extract_v2_20260813\\CriminalGirlsInviteOnly_KoreanPatch_v2",
+    "file_count":  9,
+    "allowlist_delta":  [
+
+                        ],
+    "files":  [
+                  {
+                      "path":  "PatchCommon.ps1",
+                      "present":  true,
+                      "size":  13954,
+                      "sha256":  "bccee43c5c28ee030c302d44cd71fcefef9b7fe3e60c7e3ecfe69e66b7bce5b0",
+                      "ok":  true
+                  },
+                  {
+                      "path":  "Install-KoreanPatch.ps1",
+                      "present":  true,
+                      "size":  6054,
+                      "sha256":  "2d20b88705522c8cc4c48ca29eb748b57ea3fbffaf0e6e4eb2642db3c824a10a",
+                      "ok":  true
+                  },
+                  {
+                      "path":  "Recover-KoreanPatch.ps1",
+                      "present":  true,
+                      "size":  5344,
+                      "sha256":  "f366e2d33b3a6fc260c423acea8bd98e17791050e77b18d041a93acb0f210119",
+                      "ok":  true
+                  },
+                  {
+                      "path":  "Restore-KoreanPatch.ps1",
+                      "present":  true,
+                      "size":  5389,
+                      "sha256":  "f6bb020e2a3cc93de846318c1f6016f23fc55f9218a484ff9ed528171382854a",
+                      "ok":  true
+                  },
+                  {
+                      "path":  "Verify-KoreanPatch.ps1",
+                      "present":  true,
+                      "size":  1174,
+                      "sha256":  "495cc797f5941bcf1a3964303e36a6b4324bb2e340a6d6964bb70af89f5b3e72",
+                      "ok":  true
+                  },
+                  {
+                      "path":  "README_KO.txt",
+                      "present":  true,
+                      "size":  1483,
+                      "sha256":  "d747161f7ba3821e408880f5b2e9d0ce7949e95ee7e6f80fa26d1cdb6fe8f6e0",
+                      "ok":  true
+                  },
+                  {
+                      "path":  "payload/data_jp.dat",
+                      "present":  true,
+                      "size":  1933928960,
+                      "sha256":  "3130a55f56a1a752b68b610bdd868f9db198b755154276cb1d410cf0405a76de",
+                      "ok":  true
+                  },
+                  {
+                      "path":  "payload/steam_criminal.exe",
+                      "present":  true,
+                      "size":  2686976,
+                      "sha256":  "6d0a97a90575c9c53af8d60b63d1ea8cfb3dbcb9ada2d13372da5e2de8f341ca",
+                      "ok":  true
+                  }
+              ]
+}

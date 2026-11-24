@@ -1,0 +1,81 @@
+{
+  "schema": "contextual-game-localization.language-contract.v1",
+  "source_language": "ja-JP",
+  "semantic_reference_order": [
+    "ja-JP",
+    "en-US"
+  ],
+  "replacement_slot": {
+    "internal_key": "jp",
+    "archive": "data\\data_jp.dat",
+    "current_content": "ja-JP",
+    "new_content": "ko-KR"
+  },
+  "target_language": "ko-KR",
+  "preserved_languages": [
+    {
+      "internal_key": "en",
+      "archive": "data\\data_en.dat",
+      "language": "en-US",
+      "policy": "preserve_unmodified"
+    }
+  ],
+  "source_encoding": "Mixed proprietary formats: strict UTF-8 BSCR pools; JIS/KS X 1001 indexed runtime text and glyph tables; raster IMY/PTM UI",
+  "target_encoding": "UTF-8 Korean translated strings mapped through verified KS X 1001/JIS surrogate slots, patched FNT/font.bin metrics, and five Korean runtime font atlases",
+  "display_exceptions": [],
+  "translation_workflow": {
+    "translator": "Codex internal model",
+    "draft_passes": 1,
+    "integrated_review_passes": 1,
+    "external_machine_translation": false
+  },
+  "ui_workflow": {
+    "approval_mode": "screen_or_function_batch",
+    "continue_only_after_user_review": true
+  },
+  "original_game_policy": "read_only_until_explicit_install",
+  "confirmed_by_user": "2026-08-12",
+  "status": "confirmed",
+  "runtime_language_selector": {
+    "selector_storage": "SaveDataFolder/option.dat",
+    "selector_offset": 8,
+    "selector_type": "uint8",
+    "english_value": 0,
+    "japanese_value": 1,
+    "korean_runtime_value": 1,
+    "display_mode_offset": 9,
+    "fullscreen_value": 1,
+    "windowed_value": 0,
+    "evidence": [
+      "steam_criminal.exe contains: Switch to English or Japanese text.",
+      "LoadLanguageArchives selects data_jp.dat when option byte 8 is nonzero and data_en.dat when zero.",
+      "User observed English text with selector 0 and only common localized exit-confirmation UI.",
+      "P-drive preview relaunched with selector 1 and windowed selector 0."
+    ],
+    "preview_report": "release/reports/runtime_review_japanese_windowed.json",
+    "live_game_modified": true,
+    "current_live_value": 1,
+    "current_live_value_verified": true,
+    "live_report": "release/reports/live_option_language_slot_20260901.json"
+  },
+  "runtime_preview_status": "voicefix_20260901_installed_static_runtime_strings_pass_manual_battle_screen_pending",
+  "final_candidate": {
+    "data_jp_sha256": "ae645150dd0ec660e7751765c984a9027e0650c6d4f53442877ad8214df6f66f",
+    "executable_sha256": "9b2c233a7b08ca7f36aa28a93d84351b298689e97dae1c57c7f251a7463cb35d",
+    "english_archive_sha256": "d50e79521981f5ff970274f104af1dc62317848a3aa6fede2aafd78fdb1b494b",
+    "name_input": "Jamo composition with KS X 1001 Wansung 2350 syllables",
+    "runtime_launcher": "workspace/runtime_review_composition_v10/Launch-Korean-v10.lnk",
+    "launcher_working_directory_fixed": true,
+    "release_package": "release/korean_patch_jp_voicefix_20260901",
+    "installed_to_live_game": true,
+    "voice_fix_unique_rows": 119,
+    "voice_fix_occurrences": 655
+  },
+  "voice_fix_20260901": {
+    "translator_model": "Codex internal",
+    "translation_map_sha256": "32344851a3e6cb64fbd7215e0897efad096499708458508ddb5da840c0909280",
+    "staged_voice_name_verify": "audit/staged_voice_name_verify_20260901.json",
+    "live_install_report": "release/reports/live_install_voicefix_20260901.json",
+    "runtime_launch_report": "release/reports/runtime_launch_voicefix_20260901.json"
+  }
+}

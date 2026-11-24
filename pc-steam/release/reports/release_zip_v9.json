@@ -1,0 +1,61 @@
+{
+  "schema": "criminal-girls.release-zip.v9",
+  "status": "PASS",
+  "package": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v9",
+  "zip": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\CriminalGirlsInviteOnly_KoreanPatch_jp_final_v9.zip",
+  "zip_size": 1936313038,
+  "zip_sha256": "f01aab08917152d037ccd39194d859f343535c2eb053735b7720c3636cd8cd95",
+  "zip_member_count": 9,
+  "zip64": false,
+  "compression": "stored",
+  "exact_member_allowlist": true,
+  "all_member_hashes_match_package": true,
+  "mismatches": [],
+  "members": [
+    {
+      "path": "Install-KoreanPatch.ps1",
+      "size": 6054,
+      "sha256": "2d20b88705522c8cc4c48ca29eb748b57ea3fbffaf0e6e4eb2642db3c824a10a"
+    },
+    {
+      "path": "PatchCommon.ps1",
+      "size": 13954,
+      "sha256": "bccee43c5c28ee030c302d44cd71fcefef9b7fe3e60c7e3ecfe69e66b7bce5b0"
+    },
+    {
+      "path": "README_KO.txt",
+      "size": 1853,
+      "sha256": "d3e647c56058917d64daf2ca94017985109a1723aac360c13900af51d27e4b40"
+    },
+    {
+      "path": "Recover-KoreanPatch.ps1",
+      "size": 5344,
+      "sha256": "f366e2d33b3a6fc260c423acea8bd98e17791050e77b18d041a93acb0f210119"
+    },
+    {
+      "path": "Restore-KoreanPatch.ps1",
+      "size": 5389,
+      "sha256": "f6bb020e2a3cc93de846318c1f6016f23fc55f9218a484ff9ed528171382854a"
+    },
+    {
+      "path": "Verify-KoreanPatch.ps1",
+      "size": 1174,
+      "sha256": "495cc797f5941bcf1a3964303e36a6b4324bb2e340a6d6964bb70af89f5b3e72"
+    },
+    {
+      "path": "manifest.json",
+      "size": 3588,
+      "sha256": "23779fc6de22b22b5befd77ed29c21535ad9f97bae421cd82883534058c1454c"
+    },
+    {
+      "path": "payload/data_jp.dat",
+      "size": 1933754880,
+      "sha256": "31db8e54cb1e8f333fbfcbc9c39866f9b4d277cd0a216bb67d2a7e6249bc0f95"
+    },
+    {
+      "path": "payload/steam_criminal.exe",
+      "size": 2519040,
+      "sha256": "d53c0ee923d400348815ec22daac9e134010cdf566c1e9641f7a39eac21e2138"
+    }
+  ]
+}

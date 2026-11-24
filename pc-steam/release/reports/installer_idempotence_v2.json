@@ -1,0 +1,15 @@
+{
+    "schema":  "criminal-girls.installer-idempotence.v2",
+    "status":  "PASS",
+    "install_first_exit":  0,
+    "install_second_exit":  0,
+    "install_second_status":  "already_installed",
+    "restore_first_exit":  0,
+    "restore_second_exit":  0,
+    "restore_second_status":  "already_restored",
+    "final_data_sha256":  "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+    "final_exe_sha256":  "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d",
+    "leftover_transaction_files":  [
+
+                                   ]
+}

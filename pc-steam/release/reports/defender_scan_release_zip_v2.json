@@ -1,0 +1,26 @@
+{
+    "schema":  "criminal-girls.defender-zip-scan.v1",
+    "status":  "PASS",
+    "target":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\CriminalGirlsInviteOnly_KoreanPatch_jp_final_v2.zip",
+    "size":  1936654552,
+    "sha256":  "0cae884fc72443c6b3d96c0d4253aae3d413fdad24e6c0c4a7a8fedcdaae40d3",
+    "started_at":  "2026-08-13T19:21:05.1294062+09:00",
+    "ended_at":  "2026-08-13T19:21:05.6431010+09:00",
+    "scan_tool":  "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26070.9-0\\MpCmdRun.exe",
+    "scan_exit_code":  0,
+    "scan_output":  [
+                        "Scan starting...",
+                        "Scan finished.",
+                        "Scanning P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\CriminalGirlsInviteOnly_KoreanPatch_jp_final_v2.zip found no threats."
+                    ],
+    "target_detection_count":  0,
+    "detections_before_total":  15,
+    "detections_after_total":  15,
+    "source_unchanged":  true,
+    "defender":  {
+                     "engine_version":  "1.1.26070.7",
+                     "platform_version":  "4.18.26070.9",
+                     "signature_version":  "1.457.130.0",
+                     "signature_last_updated":  "2026-08-12T23:46:34.0000000+09:00"
+                 }
+}

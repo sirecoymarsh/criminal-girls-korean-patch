@@ -1,0 +1,52 @@
+{
+    "schema":  "criminal-girls.installer-full-fixture.v2",
+    "status":  "PASS",
+    "fixture":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\installer_v2_full_fixture_20260813",
+    "backup_root":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\installer_v2_full_backup_20260813",
+    "verify_exit_code":  0,
+    "verify":  {
+                   "status":  "PASS",
+                   "package":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v2",
+                   "package_state":  "verified",
+                   "targets":  [
+                                   {
+                                       "id":  "data_jp",
+                                       "payload_path":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v2\\payload\\data_jp.dat",
+                                       "payload_size":  1933928960,
+                                       "payload_sha256":  "3130a55f56a1a752b68b610bdd868f9db198b755154276cb1d410cf0405a76de"
+                                   },
+                                   {
+                                       "id":  "executable",
+                                       "payload_path":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v2\\payload\\steam_criminal.exe",
+                                       "payload_size":  2686976,
+                                       "payload_sha256":  "6d0a97a90575c9c53af8d60b63d1ea8cfb3dbcb9ada2d13372da5e2de8f341ca"
+                                   }
+                               ],
+                   "game_root":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\installer_v2_full_fixture_20260813",
+                   "game_state":  "original",
+                   "game_targets":  [
+                                        {
+                                            "id":  "data_jp",
+                                            "path":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\installer_v2_full_fixture_20260813\\data\\data_jp.dat",
+                                            "state":  "original",
+                                            "size":  1931410944,
+                                            "sha256":  "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515"
+                                        },
+                                        {
+                                            "id":  "executable",
+                                            "path":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\installer_v2_full_fixture_20260813\\steam_criminal.exe",
+                                            "state":  "original",
+                                            "size":  1929728,
+                                            "sha256":  "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d"
+                                        }
+                                    ]
+               },
+    "leftover_transaction_files":  [
+
+                                   ],
+    "source_original":  {
+                            "data_sha256":  "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+                            "exe_sha256":  "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d"
+                        },
+    "package_manifest_sha256":  "7cd91b335b172cdb4a2391a15bfbf35b2d7b19e034c82cec2ef9fe328ff54145"
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "criminal-girls.live-install-package-qualityfix-build.v1",
+  "created_utc": "2026-08-30T08:35:32.649283+00:00",
+  "status": "PASS",
+  "installed_to_game": false,
+  "package_name": "korean_patch_jp_antigravity_codex_qualityfix_20260830",
+  "manifest_sha256": "f831408e045056db2804058b25197cf04d1cd6378aa44a3d8868ea1de589735b",
+  "data_jp": {
+    "size": 1933754880,
+    "sha256": "abada4e6f5a40ed96ebc5fff53826cfae5a99e99df1ab58f76c9662b314b8355"
+  },
+  "executable": {
+    "size": 2519040,
+    "sha256": "d53c0ee923d400348815ec22daac9e134010cdf566c1e9641f7a39eac21e2138"
+  },
+  "scenario_translation_map_sha256": "ac317543f7be54461b5932271fc7a9a39e0af565dc767f0f355e94c955e06e2d",
+  "scenario_quality_changed_uids": 7462,
+  "outer_entry_count": 8442,
+  "outer_changed_entry_count": 54,
+  "outer_unchanged_entry_count": 8388,
+  "exact_nine_file_allowlist": true,
+  "transactional_installer_reused_byte_identically": true
+}

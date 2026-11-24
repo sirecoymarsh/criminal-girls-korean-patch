@@ -1,0 +1,4 @@
+source_id	source_ja	draft_ko	meta
+src_0533	なんで、あなたは	왜 너는	{"lanes": ["field_message"], "ja_len": 8, "ko_len": 3, "ratio": 0.375}
+src_0976	を倒した	을(를) 쓰러뜨렸다	{"lanes": ["battle_text"], "ja_len": 4, "ko_len": 9, "ratio": 2.25}
+src_2195	テンションアップ	텐션 업	{"lanes": ["battle_text"], "ja_len": 8, "ko_len": 3, "ratio": 0.375}

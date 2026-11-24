@@ -1,0 +1,12 @@
+{
+    "status":  "PASS",
+    "pid":  41960,
+    "preview_root":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\runtime_review_jp_v1",
+    "active_archive":  "data/data_en.dat",
+    "active_archive_sha256":  "9e50e890c0241562db6f19282f89678c7ecb347f92c5122a7eb72946f303e347",
+    "semantic_source":  "ja-JP",
+    "live_en_sha256":  "d50e79521981f5ff970274f104af1dc62317848a3aa6fede2aafd78fdb1b494b",
+    "live_jp_sha256":  "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+    "live_game_modified":  false,
+    "started_at":  "2026-08-12T23:35:51.9531740+09:00"
+}

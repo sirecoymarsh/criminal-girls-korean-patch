@@ -1,0 +1,337 @@
+{
+  "format": "ps3fs",
+  "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v9\\payload\\data_jp.dat",
+  "output": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\.korean_patch_jp_antigravity_codex_qualityfix_20260830.building-d6e844b9224749eda4f4523427b9154a\\payload\\data_jp.dat",
+  "entry_count": 8442,
+  "physical_payload_count": 8442,
+  "alias_groups": [],
+  "replacement_count": 54,
+  "first_payload_offset": 541184,
+  "output_size": 1933754880,
+  "verified_replacements": [
+    {
+      "index": 3944,
+      "name": "map_d_000_001.tpk",
+      "size": 189956,
+      "sha256": "28d24a0addd366db7fe1b1b04f159243d8e708957734cf5b293be81a753c8112"
+    },
+    {
+      "index": 3945,
+      "name": "map_d_000_002.tpk",
+      "size": 384516,
+      "sha256": "8bf550b6337f8e5db1364df2034e8876533e1183b8743a46508447df4fae373f"
+    },
+    {
+      "index": 3946,
+      "name": "map_d_000_003.tpk",
+      "size": 153604,
+      "sha256": "9d4a0178e00505fc4c94fa5d185cc085e66db0e577352c1125103c3d8204100b"
+    },
+    {
+      "index": 3947,
+      "name": "map_d_000_004.tpk",
+      "size": 344580,
+      "sha256": "dfa38abb729920cd47154b9590c2a7759974935d1d7e125e3baab2a4a337f275"
+    },
+    {
+      "index": 3948,
+      "name": "map_d_000_005.tpk",
+      "size": 179716,
+      "sha256": "a5f9c0a0a34fe2835fe39f824554751b8c4adfefab3800f0b204a538f4402504"
+    },
+    {
+      "index": 3949,
+      "name": "map_d_000_006.tpk",
+      "size": 267268,
+      "sha256": "ee549cfe70ba9bc4bfbdc71881576493723de00da3946a81a867593ae0adf4f1"
+    },
+    {
+      "index": 3950,
+      "name": "map_d_001_001.tpk",
+      "size": 375300,
+      "sha256": "47d77bc08b359604dae9766385768dc9a02a733889f304c95851b142580ce2b2"
+    },
+    {
+      "index": 3951,
+      "name": "map_d_001_002.tpk",
+      "size": 454660,
+      "sha256": "823c4f1c2b95cf983a940a3a27480039edd43efe068268de9820924c920788f2"
+    },
+    {
+      "index": 3952,
+      "name": "map_d_001_003.tpk",
+      "size": 508932,
+      "sha256": "ad65cb99f0c4d47b6d5becf0245cb5be15defc76dea2721ec70936e5e2064214"
+    },
+    {
+      "index": 3953,
+      "name": "map_d_001_004.tpk",
+      "size": 532484,
+      "sha256": "c56dd3ba5d93da00debf447d7eeecd0577b674a979273392753d905c26007b1a"
+    },
+    {
+      "index": 3954,
+      "name": "map_d_001_005.tpk",
+      "size": 155652,
+      "sha256": "a3419d6454e0073126870b12939137e07c8ec5a6fcb9998aaad934ef93412edb"
+    },
+    {
+      "index": 3955,
+      "name": "map_d_001_006.tpk",
+      "size": 667652,
+      "sha256": "8ae53a238926b8f9fac0e2555bdddeb85da379486c0c4f99f56c56a4d18204b6"
+    },
+    {
+      "index": 3956,
+      "name": "map_d_002_001.tpk",
+      "size": 451076,
+      "sha256": "5f00137ba0c921cfe5e085fc5b9b774e6b841ed071c22fa9becb630b0aa1a6aa"
+    },
+    {
+      "index": 3957,
+      "name": "map_d_002_002.tpk",
+      "size": 603652,
+      "sha256": "c5f2f4fdaa41b5f68509de6d8999c32dedab2a236d7e583dae1b40a484e26072"
+    },
+    {
+      "index": 3958,
+      "name": "map_d_002_003.tpk",
+      "size": 565764,
+      "sha256": "90708accf65adba2a42d879e60ec86bf2c07b943fbf126ff4bd81b5d34734af9"
+    },
+    {
+      "index": 3959,
+      "name": "map_d_002_004.tpk",
+      "size": 579076,
+      "sha256": "fe1fe482fb0e87f58f80a577682b729903ff006171920d802481fdd1ed7d1b62"
+    },
+    {
+      "index": 3960,
+      "name": "map_d_002_005.tpk",
+      "size": 148484,
+      "sha256": "936c72d061304f4d99c798cc1f1afa0f2c5d172a2da54a888e73955b24fea394"
+    },
+    {
+      "index": 3961,
+      "name": "map_d_002_006.tpk",
+      "size": 777732,
+      "sha256": "1f1ce1572f58df690547a4c324267f28408a284341404205dec364ee25eb3eb8"
+    },
+    {
+      "index": 3962,
+      "name": "map_d_003_001.tpk",
+      "size": 616964,
+      "sha256": "3ac8680742e1b3864d6205daeea2f18080a10476afe48c4a2a3624a82acc7141"
+    },
+    {
+      "index": 3963,
+      "name": "map_d_003_002.tpk",
+      "size": 605700,
+      "sha256": "4898b3d5e935191fb267c007624fbdbc5d5b94a0c92d50286d8983c8c4e649b0"
+    },
+    {
+      "index": 3964,
+      "name": "map_d_003_003.tpk",
+      "size": 579076,
+      "sha256": "8e36067abc672b33697be377af70d3d66389773ec3b65563421063baef8672a4"
+    },
+    {
+      "index": 3965,
+      "name": "map_d_003_004.tpk",
+      "size": 430084,
+      "sha256": "fc57d73acb70e9f3bb786c713b9c205a0085124d5c48008e9729edde6fbd9c0e"
+    },
+    {
+      "index": 3966,
+      "name": "map_d_003_005.tpk",
+      "size": 160772,
+      "sha256": "7c87561d6a94557ffe430c6f69c2406dddb43a047eb24002f1a63eccf69e665d"
+    },
+    {
+      "index": 3967,
+      "name": "map_d_003_006.tpk",
+      "size": 740868,
+      "sha256": "ea4aff81c1c495d2272811578ce9b976b9ee196f8a8c96e61748050f1d5c59e0"
+    },
+    {
+      "index": 3968,
+      "name": "map_d_004_001.tpk",
+      "size": 503300,
+      "sha256": "0757a04ef9102639052de8a3c50953fe70b29a8982f45fcd3fba6066be81ce92"
+    },
+    {
+      "index": 3969,
+      "name": "map_d_004_002.tpk",
+      "size": 458756,
+      "sha256": "ba65b448de36824d1deff820d924b2f501f83776d2dad3e9cd01b102db0cace0"
+    },
+    {
+      "index": 3970,
+      "name": "map_d_004_003.tpk",
+      "size": 561668,
+      "sha256": "e115f1ff9b03dc36e376772281413b4506f3c7e96379ee570f453e3d80011a23"
+    },
+    {
+      "index": 3971,
+      "name": "map_d_004_004.tpk",
+      "size": 401924,
+      "sha256": "530f057e9e1a02128693629c582a474f55043c6a33a8e96da22b710504656c18"
+    },
+    {
+      "index": 3972,
+      "name": "map_d_004_005.tpk",
+      "size": 168452,
+      "sha256": "e44f0aa755b15e7c3fd29674365672fb038055ccf7716a89f3855a50ca7ff785"
+    },
+    {
+      "index": 3973,
+      "name": "map_d_004_006.tpk",
+      "size": 797188,
+      "sha256": "7c9d8f1ece5631654e1fb457b06b4107dd0cf2d8108dba912a26ba427818d1aa"
+    },
+    {
+      "index": 3974,
+      "name": "map_d_005_001.tpk",
+      "size": 473092,
+      "sha256": "356426b913610de56f722e4a6f7e5e47ed938a2533740e195b1b4e13b3c8215c"
+    },
+    {
+      "index": 3975,
+      "name": "map_d_005_002.tpk",
+      "size": 350212,
+      "sha256": "f9cb0d135dc29b474951f2add68ac41b82439a035e605dc3dfb24ac877e7906e"
+    },
+    {
+      "index": 3976,
+      "name": "map_d_005_003.tpk",
+      "size": 376324,
+      "sha256": "979e82786c7b8f869bf405c29fbc9dccd89a666ab8b006223e81311dab064716"
+    },
+    {
+      "index": 3977,
+      "name": "map_d_005_004.tpk",
+      "size": 428548,
+      "sha256": "281defc9a13ef4f919c098f59548e0878f17c06769264e9043fe10084071ef16"
+    },
+    {
+      "index": 3978,
+      "name": "map_d_005_005.tpk",
+      "size": 356868,
+      "sha256": "986fa0647946cbec2c78ea57b1f98a081cb4653d875696f32ec295dc4f4f5ed8"
+    },
+    {
+      "index": 3979,
+      "name": "map_d_005_006.tpk",
+      "size": 360452,
+      "sha256": "ffd375db9e1e76c5903effbbcd10d9d856a62ac622e07cbe1a31902a4d538683"
+    },
+    {
+      "index": 3980,
+      "name": "map_d_006_001.tpk",
+      "size": 452100,
+      "sha256": "7cc2fa8c9973c55a34aa8568dcfc88bb5e94f34560760eda86b0b18455dba805"
+    },
+    {
+      "index": 3981,
+      "name": "map_d_006_002.tpk",
+      "size": 451076,
+      "sha256": "d92db63470800555cac33e64def77cecf5344b39f18f6d09512c16e78ceb3f0e"
+    },
+    {
+      "index": 3982,
+      "name": "map_d_006_003.tpk",
+      "size": 462852,
+      "sha256": "ab3898ad3634c6fbc79bb83fd48441235871161ad33aeda744ea0ad9cdc31c7a"
+    },
+    {
+      "index": 3983,
+      "name": "map_d_006_004.tpk",
+      "size": 194052,
+      "sha256": "c2c05047b87684faf7e4b5c9e5d6ba741c3a81a49df6f02ef0c39534910c2484"
+    },
+    {
+      "index": 3984,
+      "name": "map_d_006_005.tpk",
+      "size": 99332,
+      "sha256": "12a7b9b847a5bb12fe987017eeeb873ee98a9dc8a800a84bc4c129f126a00d8b"
+    },
+    {
+      "index": 3985,
+      "name": "map_d_007_001.tpk",
+      "size": 382980,
+      "sha256": "8a2e91d4aad95c35baa516d870131c393d104a3c3c88bc319d5efb4a739d2294"
+    },
+    {
+      "index": 3986,
+      "name": "map_d_007_002.tpk",
+      "size": 651780,
+      "sha256": "3c59397f40f8fd021482f2444e7eb3e5c08c051370e4efa7907c0034dc7eed9b"
+    },
+    {
+      "index": 3987,
+      "name": "map_d_007_003.tpk",
+      "size": 751620,
+      "sha256": "2eb978b10bc1c658f8550037fdc6db1618d51fc2f794b899673ac38774dd9d78"
+    },
+    {
+      "index": 3988,
+      "name": "map_d_007_004.tpk",
+      "size": 709124,
+      "sha256": "6dfae434a47a2b921b51401bf8e7421ef5d8e324e40df4fd87c2cdd362115ea2"
+    },
+    {
+      "index": 3989,
+      "name": "map_d_007_005.tpk",
+      "size": 747524,
+      "sha256": "338f87defae3649599b51371a2da9ec2ce124668b7719605dfd480f576c10aa5"
+    },
+    {
+      "index": 3990,
+      "name": "map_d_007_006.tpk",
+      "size": 224772,
+      "sha256": "d6c39857205b16bf0b891c74844c7b9ed01c12dfc1a714e154adb1882d2748e7"
+    },
+    {
+      "index": 3991,
+      "name": "map_d_008_001.tpk",
+      "size": 347140,
+      "sha256": "3700527b8e4e5c7ddfa722dfbf3a7141b7f2c786ab194c2069707fc7c0999ed5"
+    },
+    {
+      "index": 3992,
+      "name": "map_d_008_002.tpk",
+      "size": 410116,
+      "sha256": "15826538974492546648c2e966d9e2c8ed8f9662d61bf115e850110e1a56cbbe"
+    },
+    {
+      "index": 3993,
+      "name": "map_d_008_003.tpk",
+      "size": 346116,
+      "sha256": "b9da26d4912a8535c5c0b997c687ceab83492bc1a145ca43b80d743c3af8c963"
+    },
+    {
+      "index": 3994,
+      "name": "map_d_008_004.tpk",
+      "size": 261124,
+      "sha256": "97e306af112af9dbe3df82298afa328b10d2128e597e8586e22a3a8b6bc5c198"
+    },
+    {
+      "index": 3995,
+      "name": "map_d_008_005.tpk",
+      "size": 216068,
+      "sha256": "08985861aeb4511a6b0d8c1fd927961c890f9af96561006164c98d71f4f504fc"
+    },
+    {
+      "index": 3996,
+      "name": "map_d_008_006.tpk",
+      "size": 131076,
+      "sha256": "0f0fbc7be981091818a60ca7471baab75a86633595c5011fb5af120a8c85c755"
+    },
+    {
+      "index": 3997,
+      "name": "map_d_009_001.tpk",
+      "size": 129540,
+      "sha256": "f2558d4df1a52638d8fa7b13b9ccc83e576102f5b18bf842816a0ace6f8e929d"
+    }
+  ]
+}

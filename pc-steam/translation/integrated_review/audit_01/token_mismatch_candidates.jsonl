@@ -1,0 +1,64 @@
+{"source_id": "src_0132", "source_ja": "おおう…２人がそろった…", "draft_ko": "오오… 둘이 모였어…", "why": [{"numbers": [["2"], []]}]}
+{"source_id": "src_0225", "source_ja": "あと１人はどこいったのよ", "draft_ko": "나머지 한 명은 어디 간 거야.", "why": [{"numbers": [["1"], []]}]}
+{"source_id": "src_0660", "source_ja": "これで２体…", "draft_ko": "이걸로 두 마리…", "why": [{"numbers": [["2"], []]}]}
+{"source_id": "src_0662", "source_ja": "名残惜しいけどあと１体！", "draft_ko": "아쉽지만 이제 한 마리!", "why": [{"numbers": [["1"], []]}]}
+{"source_id": "src_0701", "source_ja": "味方１人にＭＰ１０をあげる", "draft_ko": "아군 한 명에게 MP 10을 준다.", "why": [{"stats": [[], ["MP"]]}, {"numbers": [["0", "1"], ["10"]]}]}
+{"source_id": "src_0705", "source_ja": "味方１人のＨＰを全回復する", "draft_ko": "아군 한 명의 HP를 모두 회복한다.", "why": [{"numbers": [["1"], []]}]}
+{"source_id": "src_0706", "source_ja": "次の戦闘のＯＰ１．５倍", "draft_ko": "다음 전투의 획득 OP가 1.5배", "why": [{"stats": [[], ["OP"]]}, {"numbers": [["5"], ["1.5"]]}]}
+{"source_id": "src_0707", "source_ja": "次の戦闘のＥＸＰ１．５倍", "draft_ko": "다음 전투의 획득 EXP가 1.5배", "why": [{"stats": [[], ["EXP"]]}, {"numbers": [["5"], ["1.5"]]}]}
+{"source_id": "src_0868", "source_ja": "囚監フロアのＢ１Ｆで戦うのか？\nいいぜ、そこへ行こう……", "draft_ko": "수감동 지하 1층에서 싸우는 거야?\n좋아, 거기로 가자……", "why": [{"numbers": [[], ["1"]]}]}
+{"source_id": "src_0869", "source_ja": "泥ノ試練の４Ｆで戦うのか？\n分かった、３回は戦わせろよな！", "draft_ko": "진흙의 시련 4층에서 싸우는 거야?\n알았어, 세 번은 싸우게 해 줘!", "why": [{"numbers": [["3", "4"], ["4"]]}]}
+{"source_id": "src_0872", "source_ja": "……呼んでる………囚監フロア…\n…Ｂ２Ｆ……行かなくちゃ………", "draft_ko": "……부르고 있어……… 수감동…\n…지하 2층…… 가야 해………", "why": [{"numbers": [[], ["2"]]}]}
+{"source_id": "src_0880", "source_ja": "マクラ、しゅーかんフロアのＢ２Ｆに\nありそうなのか？\nじゃ、たのんだぞ！", "draft_ko": "베개, 수감동 지하 2층에\n있을 것 같아?\n그럼 부탁한다!", "why": [{"numbers": [[], ["2"]]}]}
+{"source_id": "src_0884", "source_ja": "甘いもの……監獄のＢ３Ｆに\nありそうなの？　先生、お願いね。", "draft_ko": "단것…… 수감동 지하 3층에\n있을 것 같아? 선생님, 부탁해.", "why": [{"numbers": [[], ["3"]]}]}
+{"source_id": "src_0888", "source_ja": "囚監フロアのＢ４Ｆにいるクリミナルを\nトモエ、ラン、サコ、アリスの\n四人で倒せるかしら？", "draft_ko": "수감동 지하 4층에 있는 크리미널을\n토모에, 란, 사코, 앨리스\n네 명으로 쓰러뜨릴 수 있을까?", "why": [{"numbers": [[], ["4"]]}]}
+{"source_id": "src_0893", "source_ja": "囚監フロアＢ４Ｆ、監獄エリアに\n行きましょう。", "draft_ko": "수감동 지하 4층, 감옥 구역으로\n가자.", "why": [{"numbers": [[], ["4"]]}]}
+{"source_id": "src_0897", "source_ja": "囚監フロアのＢ１Ｆの\nボスがいたところ……試練の間に\nいきたいの。", "draft_ko": "수감동 지하 1층의\n보스가 있던 곳…… 시련의 방으로\n가고 싶어.", "why": [{"numbers": [[], ["1"]]}]}
+{"source_id": "src_0904", "source_ja": "泥ノ試練の４Ｆで戦うんだろ？\nあと２回は戦わせろよな！", "draft_ko": "진흙의 시련 4층에서 싸우는 거지?\n두 번은 더 싸우게 해 줘!", "why": [{"numbers": [["2", "4"], ["4"]]}]}
+{"source_id": "src_0905", "source_ja": "炎ノ試練の４Ｆだよな？\nあと２回は戦わせてくれよ。", "draft_ko": "불꽃의 시련 4층 맞지?\n두 번은 더 싸우게 해 줘.", "why": [{"numbers": [["2", "4"], ["4"]]}]}
+{"source_id": "src_0921", "source_ja": "泥ノ試練の４Ｆで戦うんだろ？\nあと１回は戦わせろよな！", "draft_ko": "진흙의 시련 4층에서 싸우는 거지?\n한 번은 더 싸우게 해 줘!", "why": [{"numbers": [["1", "4"], ["4"]]}]}
+{"source_id": "src_0922", "source_ja": "炎ノ試練の４Ｆだよな？\nあと１回……戦わせてくれよ。", "draft_ko": "불꽃의 시련 4층 맞지?\n한 번만 더…… 싸우게 해 줘.", "why": [{"numbers": [["1", "4"], ["4"]]}]}
+{"source_id": "src_1030", "source_ja": "２人がかりなら…", "draft_ko": "둘이서 한다면…", "why": [{"numbers": [["2"], []]}]}
+{"source_id": "src_1038", "source_ja": "２ついくよっ！", "draft_ko": "두 번 간다!", "why": [{"numbers": [["2"], []]}]}
+{"source_id": "src_1056", "source_ja": "こら！そこの２人！", "draft_ko": "야! 거기 두 사람!", "why": [{"numbers": [["2"], []]}]}
+{"source_id": "src_1070", "source_ja": "くされ縁の３人ですが…！", "draft_ko": "지긋지긋한 인연인 세 사람이지만…!", "why": [{"numbers": [["3"], []]}]}
+{"source_id": "src_1093", "source_ja": "３人でかかるぞ！", "draft_ko": "셋이서 덤비자!", "why": [{"numbers": [["3"], []]}]}
+{"source_id": "src_1122", "source_ja": "３人でタコなぐりだ！", "draft_ko": "셋이서 두들겨 패자!", "why": [{"numbers": [["3"], []]}]}
+{"source_id": "src_1154", "source_ja": "３人なら…", "draft_ko": "셋이라면…", "why": [{"numbers": [["3"], []]}]}
+{"source_id": "src_1180", "source_ja": "２人がいいの…", "draft_ko": "둘이 좋아…", "why": [{"numbers": [["2"], []]}]}
+{"source_id": "src_1243", "source_ja": "３人遊びといたしましょ！", "draft_ko": "셋이서 놀아 보자!", "why": [{"numbers": [["3"], []]}]}
+{"source_id": "src_1245", "source_ja": "２人とも燃えてはるねえ…", "draft_ko": "둘 다 불타오르네…", "why": [{"numbers": [["2"], []]}]}
+{"source_id": "src_1314", "source_ja": "２人がかりだー！", "draft_ko": "둘이서 간다~!", "why": [{"numbers": [["2"], []]}]}
+{"source_id": "src_1327", "source_ja": "３人ならがんばれるよ！", "draft_ko": "셋이라면 힘낼 수 있어!", "why": [{"numbers": [["3"], []]}]}
+{"source_id": "src_1360", "source_ja": "ユコ一番のり！", "draft_ko": "유코가 1등!", "why": [{"numbers": [[], ["1"]]}]}
+{"source_id": "src_1377", "source_ja": "２人の方が効率的ね！", "draft_ko": "둘이 하는 편이 효율적이네!", "why": [{"numbers": [["2"], []]}]}
+{"source_id": "src_1380", "source_ja": "はい！２名挙手！", "draft_ko": "네! 두 명 손들었어!", "why": [{"numbers": [["2"], []]}]}
+{"source_id": "src_1394", "source_ja": "次のＭＰ！ゼロにするから！", "draft_ko": "다음 MP! 0으로 만들 테니까!", "why": [{"numbers": [[], ["0"]]}]}
+{"source_id": "src_1515", "source_ja": "第832号囚監フロアＢ３Ｆの鍵", "draft_ko": "제832호 수감동 지하 3층 열쇠", "why": [{"numbers": [["832"], ["3", "832"]]}]}
+{"source_id": "src_1516", "source_ja": "第832号囚監フロアＢ２Ｆの鍵", "draft_ko": "제832호 수감동 지하 2층 열쇠", "why": [{"numbers": [["832"], ["2", "832"]]}]}
+{"source_id": "src_1517", "source_ja": "第832号囚監フロアＢ１Ｆの鍵", "draft_ko": "제832호 수감동 지하 1층 열쇠", "why": [{"numbers": [["832"], ["1", "832"]]}]}
+{"source_id": "src_1579", "source_ja": "サコの３番目に好きなもの", "draft_ko": "사코가 세 번째로 좋아하는 것", "why": [{"numbers": [["3"], []]}]}
+{"source_id": "src_1623", "source_ja": "試験薬ＫＮ１８Ａ", "draft_ko": "시험약 KN18A", "why": [{"codes": [[], ["KN18A"]]}]}
+{"source_id": "src_1624", "source_ja": "試験薬ＫＮ１８Ｂ", "draft_ko": "시험약 KN18B", "why": [{"codes": [[], ["KN18B"]]}]}
+{"source_id": "src_1625", "source_ja": "試験薬ＫＮ１８Ｃ", "draft_ko": "시험약 KN18C", "why": [{"codes": [[], ["KN18C"]]}]}
+{"source_id": "src_1626", "source_ja": "試験薬ＫＮ１８Ｄ", "draft_ko": "시험약 KN18D", "why": [{"codes": [[], ["KN18D"]]}]}
+{"source_id": "src_1627", "source_ja": "試験薬ＫＮ１８Ｅ", "draft_ko": "시험약 KN18E", "why": [{"codes": [[], ["KN18E"]]}]}
+{"source_id": "src_1628", "source_ja": "試験薬ＫＮ１８Ｆ", "draft_ko": "시험약 KN18F", "why": [{"codes": [[], ["KN18F"]]}]}
+{"source_id": "src_1629", "source_ja": "試験薬ＫＮ１８Ｇ", "draft_ko": "시험약 KN18G", "why": [{"codes": [[], ["KN18G"]]}]}
+{"source_id": "src_1635", "source_ja": "火炎二段の書", "draft_ko": "화염 2단의 서", "why": [{"numbers": [[], ["2"]]}]}
+{"source_id": "src_1641", "source_ja": "氷結二段の書", "draft_ko": "빙결 2단의 서", "why": [{"numbers": [[], ["2"]]}]}
+{"source_id": "src_1642", "source_ja": "雷撃二段の書", "draft_ko": "뇌격 2단의 서", "why": [{"numbers": [[], ["2"]]}]}
+{"source_id": "src_1649", "source_ja": "試験薬ＫＮ１８Ｈ", "draft_ko": "시험약 KN18H", "why": [{"codes": [[], ["KN18H"]]}]}
+{"source_id": "src_1650", "source_ja": "試験薬ＫＮ１８Ｉ", "draft_ko": "시험약 KN18I", "why": [{"codes": [[], ["KN18I"]]}]}
+{"source_id": "src_1698", "source_ja": "味方１人がＨＰ３０で復活する", "draft_ko": "아군 1명을 HP 30으로 부활시킨다", "why": [{"stats": [[], ["HP"]]}, {"numbers": [["0", "1"], ["1", "30"]]}]}
+{"source_id": "src_1699", "source_ja": "味方１人がＨＰ１００で復活する", "draft_ko": "아군 1명을 HP 100으로 부활시킨다", "why": [{"stats": [[], ["HP"]]}, {"numbers": [["00", "1"], ["1", "100"]]}]}
+{"source_id": "src_1763", "source_ja": "廃棄薬品ＸＧ０６", "draft_ko": "폐기 약품 XG06", "why": [{"codes": [[], ["XG06"]]}]}
+{"source_id": "src_1764", "source_ja": "廃棄薬品ＵＬ７７", "draft_ko": "폐기 약품 UL77", "why": [{"codes": [[], ["UL77"]]}]}
+{"source_id": "src_1805", "source_ja": "二段斬り", "draft_ko": "2단 베기", "why": [{"numbers": [[], ["2"]]}]}
+{"source_id": "src_1819", "source_ja": "取得ＯＰＵＰ", "draft_ko": "획득 OP 상승", "why": [{"stats": [[], ["OP"]]}]}
+{"source_id": "src_1820", "source_ja": "最大ＨＰＵＰ", "draft_ko": "최대 HP 상승", "why": [{"stats": [[], ["HP"]]}]}
+{"source_id": "src_1893", "source_ja": "消費ＭＰ２５％減", "draft_ko": "소모 MP 25% 감소", "why": [{"stats": [[], ["MP"]]}, {"numbers": [["5%"], ["25%"]]}]}
+{"source_id": "src_2043", "source_ja": "ぬるぬる調教改々", "draft_ko": "미끌미끌 조교 개량²", "why": [{"numbers": [[], ["2"]]}]}
+{"source_id": "src_2063", "source_ja": "ＨＰ５０％以上ある状態から戦闘不能になったらＨＰ１で耐える", "draft_ko": "HP가 50% 이상인 상태에서 전투 불능이 되면 HP 1로 버틴다", "why": [{"stats": [[], ["HP", "HP"]]}, {"numbers": [["0%"], ["1", "50%"]]}]}
+{"source_id": "src_2096", "source_ja": "素早く三連撃する攻撃です。\n効果値：１８０　効果：単体", "draft_ko": "빠르게 3연격을 가하는 공격입니다.\n효과값: 180  효과: 단일", "why": [{"numbers": [["180"], ["180", "3"]]}]}
+{"source_id": "src_2306", "source_ja": "ぬるぬる調教・改々", "draft_ko": "미끌미끌 조교·개량²", "why": [{"numbers": [[], ["2"]]}]}

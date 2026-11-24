@@ -1,0 +1,18 @@
+{
+  "schema": "criminal-girls.bscr-inner-replacements.v2",
+  "format": "DSARCIDX",
+  "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_002_004.tpk",
+  "template_sha256": "a2a56740f9942afdd7c21462fb953055ca8ad9858dc6bfef0c23b5fc77044b65",
+  "template_entry_count": 1,
+  "replacements": [
+    {
+      "index": 0,
+      "expected_name": "map_d_002_004.tpk.0000",
+      "expected_file_id": 0,
+      "expected_original_size": 578328,
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_002_004\\map_d_002_004.tpk.0000",
+      "replacement_size": 578328,
+      "replacement_sha256": "193d44d3213e131785a5f6c22a77967ab66896268d1e196ea0269a1b9aad4af5"
+    }
+  ]
+}

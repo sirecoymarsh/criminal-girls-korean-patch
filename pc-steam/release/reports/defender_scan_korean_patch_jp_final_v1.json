@@ -1,0 +1,39 @@
+{
+    "status":  "PASS",
+    "source_package":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v1",
+    "disposable_scan_copy":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\defender_scan_korean_patch_jp_final_v1",
+    "started_at":  "2026-08-12T23:17:59.6589381+09:00",
+    "ended_at":  "2026-08-12T23:17:59.7880842+09:00",
+    "duration_seconds":  0.129,
+    "scan_tool":  "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26070.9-0\\MpCmdRun.exe",
+    "scan_exit_code":  0,
+    "scan_output":  [
+                        "Scan starting...",
+                        "Scan finished.",
+                        "Scanning P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\defender_scan_korean_patch_jp_final_v1 found no threats."
+                    ],
+    "file_count":  8,
+    "manifest_sha256":  "91c93e6fed0f86e4fe07fe2ee45df96c1ce08ff4c2ee67a610d3189daf9349a4",
+    "payload_sha256":  "9e50e890c0241562db6f19282f89678c7ecb347f92c5122a7eb72946f303e347",
+    "source_unchanged":  true,
+    "disposable_copy_unchanged":  true,
+    "detections_before_total":  21,
+    "detections_after_total":  21,
+    "new_detection_count":  0,
+    "scan_target_detection_count":  0,
+    "new_detections":  [
+
+                       ],
+    "scan_target_detections":  [
+
+                               ],
+    "defender":  {
+                     "am_service_enabled":  true,
+                     "antivirus_enabled":  true,
+                     "real_time_protection_enabled":  true,
+                     "engine_version":  "1.1.26070.7",
+                     "platform_version":  "4.18.26070.9",
+                     "signature_version":  "1.457.123.0",
+                     "signature_last_updated":  "2026-08-12T12:25:28.0000000+09:00"
+                 }
+}

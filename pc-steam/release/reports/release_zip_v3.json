@@ -1,0 +1,85 @@
+{
+  "schema": "criminal-girls.release-zip.v2",
+  "status": "PASS",
+  "package": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v3",
+  "package_manifest_sha256": "45406b96d1154d2fac91e0cca7eb117d0209d2ebe57eff495df31f843d97f0ca",
+  "zip": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\CriminalGirlsInviteOnly_KoreanPatch_jp_final_v3.zip",
+  "zip_size": 1936486616,
+  "zip_sha256": "07433ee75ce38e8220908056dfd27e4a5f4914f01900a71ad934fe6eb7acb597",
+  "compression": "stored",
+  "member_count": 9,
+  "members": [
+    {
+      "path": "manifest.json",
+      "zip_path": "CriminalGirlsInviteOnly_KoreanPatch_v2/manifest.json",
+      "size": 3276,
+      "compressed_size": 3276,
+      "sha256": "45406b96d1154d2fac91e0cca7eb117d0209d2ebe57eff495df31f843d97f0ca",
+      "ok": true
+    },
+    {
+      "path": "PatchCommon.ps1",
+      "zip_path": "CriminalGirlsInviteOnly_KoreanPatch_v2/PatchCommon.ps1",
+      "size": 13954,
+      "compressed_size": 13954,
+      "sha256": "bccee43c5c28ee030c302d44cd71fcefef9b7fe3e60c7e3ecfe69e66b7bce5b0",
+      "ok": true
+    },
+    {
+      "path": "Install-KoreanPatch.ps1",
+      "zip_path": "CriminalGirlsInviteOnly_KoreanPatch_v2/Install-KoreanPatch.ps1",
+      "size": 6054,
+      "compressed_size": 6054,
+      "sha256": "2d20b88705522c8cc4c48ca29eb748b57ea3fbffaf0e6e4eb2642db3c824a10a",
+      "ok": true
+    },
+    {
+      "path": "Recover-KoreanPatch.ps1",
+      "zip_path": "CriminalGirlsInviteOnly_KoreanPatch_v2/Recover-KoreanPatch.ps1",
+      "size": 5344,
+      "compressed_size": 5344,
+      "sha256": "f366e2d33b3a6fc260c423acea8bd98e17791050e77b18d041a93acb0f210119",
+      "ok": true
+    },
+    {
+      "path": "Restore-KoreanPatch.ps1",
+      "zip_path": "CriminalGirlsInviteOnly_KoreanPatch_v2/Restore-KoreanPatch.ps1",
+      "size": 5389,
+      "compressed_size": 5389,
+      "sha256": "f6bb020e2a3cc93de846318c1f6016f23fc55f9218a484ff9ed528171382854a",
+      "ok": true
+    },
+    {
+      "path": "Verify-KoreanPatch.ps1",
+      "zip_path": "CriminalGirlsInviteOnly_KoreanPatch_v2/Verify-KoreanPatch.ps1",
+      "size": 1174,
+      "compressed_size": 1174,
+      "sha256": "495cc797f5941bcf1a3964303e36a6b4324bb2e340a6d6964bb70af89f5b3e72",
+      "ok": true
+    },
+    {
+      "path": "README_KO.txt",
+      "zip_path": "CriminalGirlsInviteOnly_KoreanPatch_v2/README_KO.txt",
+      "size": 1483,
+      "compressed_size": 1483,
+      "sha256": "d747161f7ba3821e408880f5b2e9d0ce7949e95ee7e6f80fa26d1cdb6fe8f6e0",
+      "ok": true
+    },
+    {
+      "path": "payload/data_jp.dat",
+      "zip_path": "CriminalGirlsInviteOnly_KoreanPatch_v2/payload/data_jp.dat",
+      "size": 1933928960,
+      "compressed_size": 1933928960,
+      "sha256": "079df0e0c32ea84f3c55a6a540f114399a5efda6e71933967f95597577cec004",
+      "ok": true
+    },
+    {
+      "path": "payload/steam_criminal.exe",
+      "zip_path": "CriminalGirlsInviteOnly_KoreanPatch_v2/payload/steam_criminal.exe",
+      "size": 2519040,
+      "compressed_size": 2519040,
+      "sha256": "4c6505a7d9deb1df8bdd429d60ed29da92dba21f9b39b675dae0269d9dce0461",
+      "ok": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "package": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\final_integrated_review_jp_v2",
+  "package_file_count": 93,
+  "manifest_entries": 92,
+  "checks": {
+    "manifest_exact_set": true,
+    "manifest_hashes": true,
+    "package_summary_pass": true,
+    "verification_pass": true,
+    "three_review_links": true,
+    "scenario_rows": true,
+    "scenario_header": true,
+    "installer_page_complete": true,
+    "installer_reports_exact": true,
+    "no_temp_files": true,
+    "installed_false": true
+  },
+  "manifest_sha256": "b4bf452d8dd2c01f2ba9426dc442a404674cecface059f235224e9ac4b9551e5"
+}

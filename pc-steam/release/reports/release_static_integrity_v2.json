@@ -1,0 +1,62 @@
+{
+    "schema":  "criminal-girls.release-static-integrity.v2",
+    "status":  "PASS",
+    "package":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v2",
+    "file_count":  9,
+    "manifest_sha256":  "7cd91b335b172cdb4a2391a15bfbf35b2d7b19e034c82cec2ef9fe328ff54145",
+    "powershell_51_version":  "5.1.26100.9168",
+    "script_syntax":  [
+                          {
+                              "file":  "PatchCommon.ps1",
+                              "error_count":  0,
+                              "errors":  [
+
+                                         ],
+                              "sha256":  "bccee43c5c28ee030c302d44cd71fcefef9b7fe3e60c7e3ecfe69e66b7bce5b0"
+                          },
+                          {
+                              "file":  "Install-KoreanPatch.ps1",
+                              "error_count":  0,
+                              "errors":  [
+
+                                         ],
+                              "sha256":  "2d20b88705522c8cc4c48ca29eb748b57ea3fbffaf0e6e4eb2642db3c824a10a"
+                          },
+                          {
+                              "file":  "Recover-KoreanPatch.ps1",
+                              "error_count":  0,
+                              "errors":  [
+
+                                         ],
+                              "sha256":  "f366e2d33b3a6fc260c423acea8bd98e17791050e77b18d041a93acb0f210119"
+                          },
+                          {
+                              "file":  "Restore-KoreanPatch.ps1",
+                              "error_count":  0,
+                              "errors":  [
+
+                                         ],
+                              "sha256":  "f6bb020e2a3cc93de846318c1f6016f23fc55f9218a484ff9ed528171382854a"
+                          },
+                          {
+                              "file":  "Verify-KoreanPatch.ps1",
+                              "error_count":  0,
+                              "errors":  [
+
+                                         ],
+                              "sha256":  "495cc797f5941bcf1a3964303e36a6b4324bb2e340a6d6964bb70af89f5b3e72"
+                          }
+                      ],
+    "allowlist_delta":  [
+
+                        ],
+    "reparse_points":  [
+
+                       ],
+    "alternate_data_streams":  [
+
+                               ],
+    "private_path_or_stale_reference_hits":  [
+
+                                             ]
+}

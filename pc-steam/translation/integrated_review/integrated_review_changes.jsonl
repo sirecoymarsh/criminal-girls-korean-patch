@@ -1,0 +1,47 @@
+{"source_id": "src_0795", "source_ja": "を使用しますか？", "before": "을(를) 사용하시겠습니까?", "after": " 사용하시겠습니까?"}
+{"source_id": "src_0798", "source_ja": "%sと%sを交換しますか？", "before": "%s와(과) %s를 교환하시겠습니까?", "after": "%s ↔ %s 교환하시겠습니까?"}
+{"source_id": "src_0799", "source_ja": "%sと%sを交代しますか？", "before": "%s와(과) %s를 교대하시겠습니까?", "after": "%s ↔ %s 교대하시겠습니까?"}
+{"source_id": "src_0817", "source_ja": "中断データを削除中です。\nメモリースティック②を抜かないでください。", "before": "중단 데이터를 삭제하는 중입니다.\n메모리 카드 ②를 빼지 마세요.", "after": "중단 데이터를 삭제하는 중입니다.\n메모리 스틱 ②를 빼지 마세요."}
+{"source_id": "src_0821", "source_ja": "本ゲームはオートセーブ機能に対応しています。\nオートセーブ中にはメモリースティック②\nアクセスランプが点滅しますので、その間は\nメモリースティック②を抜いたり本体の電源を\n切ったりしないで下さい。", "before": "이 게임은 자동 저장 기능을 지원합니다.\n자동 저장 중에는 메모리 카드 ②의\n접근 표시등이 깜박입니다. 그동안\n메모리 카드 ②를 빼거나 본체 전원을\n끄지 마세요.", "after": "이 게임은 자동 저장 기능을 지원합니다.\n자동 저장 중에는 메모리 스틱 ②의\n접근 표시등이 깜박입니다. 그동안\n메모리 스틱 ②를 빼거나 본체 전원을\n끄지 마세요."}
+{"source_id": "src_0822", "source_ja": "メモリースティック②が差し込まれていません。\nメモリースティック②を差し込んでください。\n準備はよろしいですか？", "before": "메모리 카드 ②가 꽂혀 있지 않습니다.\n메모리 카드 ②를 꽂아 주세요.\n준비되셨습니까?", "after": "메모리 스틱 ②가 꽂혀 있지 않습니다.\n메모리 스틱 ②를 꽂아 주세요.\n준비되셨습니까?"}
+{"source_id": "src_0824", "source_ja": "システムデータをセーブしています。\nメモリースティック②を抜いたり、本体の電源を\n切ったりしないで下さい。", "before": "시스템 데이터를 저장하는 중입니다.\n메모리 카드 ②를 빼거나 본체 전원을\n끄지 마세요.", "after": "시스템 데이터를 저장하는 중입니다.\n메모리 스틱 ②를 빼거나 본체 전원을\n끄지 마세요."}
+{"source_id": "src_0949", "source_ja": "は身を守っている", "before": "은(는) 몸을 지키고 있다", "after": ": 몸을 지키고 있다"}
+{"source_id": "src_0951", "source_ja": "は力を溜めている", "before": "은(는) 힘을 모으고 있다", "after": ": 힘을 모으고 있다"}
+{"source_id": "src_0953", "source_ja": "は逃げ出した", "before": "은(는) 도망쳤다", "after": ": 도망쳤다"}
+{"source_id": "src_0954", "source_ja": "は仲間を呼んだ", "before": "은(는) 동료를 불렀다", "after": ": 동료를 불렀다"}
+{"source_id": "src_0955", "source_ja": "が新たに出現した", "before": "이(가) 새로 나타났다", "after": ": 새로 나타났다"}
+{"source_id": "src_0956", "source_ja": "に\nのダメージ", "before": "에게\n의 피해", "after": ":\n 피해"}
+{"source_id": "src_0957", "source_ja": "は攻撃をかわした", "before": "은(는) 공격을 피했다", "after": ": 공격을 피했다"}
+{"source_id": "src_0958", "source_ja": "は猛毒になった", "before": "은(는) 맹독에 걸렸다", "after": ": 맹독에 걸렸다"}
+{"source_id": "src_0959", "source_ja": "は麻痺になった", "before": "은(는) 마비됐다", "after": ": 마비됐다"}
+{"source_id": "src_0960", "source_ja": "は入れ替え禁止になった", "before": "은(는) 교대 금지 상태가 됐다", "after": ": 교대 금지 상태가 됐다"}
+{"source_id": "src_0961", "source_ja": "は混乱した", "before": "은(는) 혼란에 빠졌다", "after": ": 혼란에 빠졌다"}
+{"source_id": "src_0963", "source_ja": "はしびれて動けない", "before": "은(는) 마비되어 움직일 수 없다", "after": ": 마비되어 움직일 수 없다"}
+{"source_id": "src_0964", "source_ja": "は眠っている", "before": "은(는) 잠들어 있다", "after": ": 잠들어 있다"}
+{"source_id": "src_0965", "source_ja": "は混乱している", "before": "은(는) 혼란에 빠져 있다", "after": ": 혼란에 빠져 있다"}
+{"source_id": "src_0976", "source_ja": "を倒した", "before": "을(를) 쓰러뜨렸다", "after": " 격파"}
+{"source_id": "src_0978", "source_ja": "使った", "before": "을(를) 사용했다", "after": " 사용"}
+{"source_id": "src_0979", "source_ja": "と交代", "before": "와(과) 교대", "after": " 교대"}
+{"source_id": "src_0982", "source_ja": "癒しの力を使った", "before": "은(는) 치유의 힘을 사용했다", "after": ": 치유의 힘을 사용했다"}
+{"source_id": "src_0984", "source_ja": "は明日を見つめた", "before": "은(는) 내일을 바라보았다", "after": ": 내일을 바라보았다"}
+{"source_id": "src_0985", "source_ja": "は防御した", "before": "은(는) 방어했다", "after": ": 방어했다"}
+{"source_id": "src_0990", "source_ja": "は交代できない", "before": "은(는) 교대할 수 없다", "after": ": 교대할 수 없다"}
+{"source_id": "src_0991", "source_ja": "と\nを交代しますか？", "before": "와(과)\n을(를) 교대하시겠습니까?", "after": " ↔\n 교대하시겠습니까?"}
+{"source_id": "src_0992", "source_ja": "は逃走に失敗した", "before": "은(는) 도주에 실패했다", "after": ": 도주에 실패했다"}
+{"source_id": "src_0994", "source_ja": "ＯＰを援助してもらった", "before": "은(는) OP를 지원받았다", "after": ": OP를 지원받았다"}
+{"source_id": "src_0995", "source_ja": "ＯＰを取り戻した", "before": "은(는) OP를 되찾았다", "after": ": OP를 되찾았다"}
+{"source_id": "src_0997", "source_ja": "をいただいた", "before": "을(를) 받았다", "after": " 획득"}
+{"source_id": "src_0998", "source_ja": "を取り返した", "before": "을(를) 되찾았다", "after": " 회수"}
+{"source_id": "src_1008", "source_ja": "は無敵になった", "before": "은(는) 무적이 되었다", "after": ": 무적이 됐다"}
+{"source_id": "src_1012", "source_ja": "リキュアでＨＰが回復する", "before": "은(는) 리큐어로 HP를 회복한다", "after": ": 리큐어로 HP를 회복한다"}
+{"source_id": "src_1014", "source_ja": "は威嚇をした", "before": "은(는) 위협했다", "after": ": 위협했다"}
+{"source_id": "src_1016", "source_ja": "はＭＰの消費が０になった", "before": "은(는) MP 소비가 0이 되었다", "after": ": MP 소모가 0이 됐다"}
+{"source_id": "src_1018", "source_ja": "は自動復活状態になった", "before": "은(는) 자동 부활 상태가 되었다", "after": ": 자동 부활 상태가 됐다"}
+{"source_id": "src_1020", "source_ja": "はご褒美をいただいた！！", "before": "은(는) 보상을 받았다!!", "after": ": 포상을 받았다!!"}
+{"source_id": "src_1021", "source_ja": "はご褒美をいただけなかった", "before": "은(는) 보상을 받지 못했다", "after": ": 포상을 받지 못했다"}
+{"source_id": "src_1022", "source_ja": "は", "before": "은(는)", "after": ": "}
+{"source_id": "src_1023", "source_ja": "が", "before": "이(가)", "after": ": "}
+{"source_id": "src_1025", "source_ja": "を", "before": "을(를)", "after": " "}
+{"source_id": "src_2428", "source_ja": "を実行します。\nよろしいですか？", "before": "을(를) 실행합니다.\n계속하시겠습니까?", "after": " 실행합니다.\n계속하시겠습니까?"}
+{"source_id": "src_2430", "source_ja": "を入手しました。", "before": "을(를) 획득했습니다.", "after": " 획득했습니다."}
+{"source_id": "src_2472", "source_ja": "おしおき、されるの…", "before": "벌 받는 거야…", "after": "벌주기… 받는 거야…"}

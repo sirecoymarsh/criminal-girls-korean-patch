@@ -1,0 +1,14 @@
+ad420   004ead85     172 ecx=00000133 edx=000000fb esi=0cd87720
+elem    00490721      86 ecx=1815e890 edx=24ede798 esi=00000020
+elem    004907bb      43 ecx=1815e890 edx=0a8d8e9c esi=00000800
+elem    00490d54      43 ecx=1811fe90 edx=0a8da3b0 esi=ffffffff
+elem    00490dd0      43 ecx=1811fe90 edx=0a8da5f0 esi=ffffffff
+elem    00490e1c      43 ecx=1811fe90 edx=0a8da470 esi=ffffffff
+elem    00490f15      86 ecx=1811fe90 edx=0a8da770 esi=0a8da770
+quad    004505d8   15050 ecx=14fad7e0 edx=ffffffff esi=0cda1c20
+quad    00457d58    1505 ecx=032ff868 edx=ffffffff esi=0cd87420
+quad    00461df6     731 ecx=032ff5d4 edx=ffffffff esi=0cda62a0
+quad    004ad52a     172 ecx=032ff610 edx=ffffffff esi=0cd87720
+quad    004b0cda     344 ecx=032ff4ec edx=ffffffff esi=0cd87e20
+quad    57f86518      43 ecx=585718a8 edx=a8000000 esi=585718b0
+text    57f8602d      43 ecx=0a8681b0 edx=00000010 esi=0a8681b0

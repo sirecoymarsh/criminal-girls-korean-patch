@@ -1,0 +1,39 @@
+{
+  "schema": "criminal-girls.completion-audit.v6",
+  "status": "PENDING_USER_RUNTIME_CONFIRMATION",
+  "objective": "번역과 UI를 모두 끝마쳐라. 번역은 코덱스 내부모델로만 해라.",
+  "static_checks": {
+    "japanese_semantic_source": true,
+    "codex_internal_model_only": true,
+    "bscr_all_48296_translated": true,
+    "non_bscr_all_2709_reviewed_or_proven_preserve": true,
+    "ui_original_design_static_qa": true,
+    "ui_main_bak_pairs_36_72": true,
+    "original_japanese_name_selector_preserved": true,
+    "korean_two_set_static": true,
+    "hangul_english_toggle_static": true,
+    "english_numeric_cp932_two_byte_no_nul_static": true,
+    "ctrl_confirmation_not_intercepted_static": true,
+    "full_candidate_all_checks": true,
+    "installer_matrix_7_cases": true,
+    "zip_9_members_hash_exact": true,
+    "original_f_data_unchanged": true,
+    "original_f_exe_unchanged": true
+  },
+  "manual_runtime_checks": {
+    "v21_runtime_process_launched": true,
+    "korean_direct_input_user_confirmation": "PENDING",
+    "english_fullwidth_input_user_confirmation": "PENDING",
+    "numeric_fullwidth_input_user_confirmation": "PENDING",
+    "ctrl_confirmation_advances_user_confirmation": "PENDING"
+  },
+  "package": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_final_v6",
+  "zip": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\CriminalGirlsInviteOnly_KoreanPatch_jp_final_v6.zip",
+  "data_sha256": "31db8e54cb1e8f333fbfcbc9c39866f9b4d277cd0a216bb67d2a7e6249bc0f95",
+  "exe_sha256": "28c80200f5bfbd483bca905e441be878eb8204740e01a38d4a51a07c2b269435",
+  "zip_sha256": "917b5855fb29a3c97a322f68a33561e4ac46436965f6b9ff613a7b2a1f9f5e4e",
+  "remaining": [
+    "v21 실제 화면에서 한글, 전각 영문, 전각 숫자 표시 및 Ctrl 확인 진행을 사용자 확인",
+    "확인 후 F 드라이브 실게임 설치 승인 및 설치 후 해시 검증"
+  ]
+}

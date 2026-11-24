@@ -1,0 +1,1091 @@
+{
+  "schema": "criminal-girls.bscr-inner-manifest-audit.v2",
+  "pass": true,
+  "container_count": 54,
+  "payload_count": 54,
+  "manifest_count": 54,
+  "error_count": 0,
+  "errors": [],
+  "manifests": [
+    {
+      "container": "map_d_000_001.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_000_001.tpk",
+      "template_sha256": "9e7415d20e0831ee0bb19b316b90485056035dd519f3c69c324ae5035a8f57ce",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_000_001.tpk.replacements.json",
+      "manifest_sha256": "2daa65a929fdadc338dc91b7052efed52dd7bccb0df6c4378b199e2c1554b557",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_000_001\\map_d_000_001.tpk.0000",
+      "payload_sha256": "7f95d2b4b976760b6407317a2df883f108ab72cefbca32e42fc7b2127a3888d5",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_000_001.tpk.0000",
+        "original_size": 189136
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_000_002.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_000_002.tpk",
+      "template_sha256": "f2bf2832b692348d6b82d52f4e21f4bfc9458cf0b3c75f6f76e32df1aa29b3c2",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_000_002.tpk.replacements.json",
+      "manifest_sha256": "86ea5d3a2b888e35edce4dc3f353d480d19d3702c3ab3b4877d1160a6619e2fd",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_000_002\\map_d_000_002.tpk.0000",
+      "payload_sha256": "09883012c6906d6a002f474e7611c9c791c099ab1bea221c0255a46bdf7d3138",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_000_002.tpk.0000",
+        "original_size": 383808
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_000_003.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_000_003.tpk",
+      "template_sha256": "553b99b2d40e5f2c6f1b9df334b3e6c60adbcd12ffa177fd299bd73457603f93",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_000_003.tpk.replacements.json",
+      "manifest_sha256": "63126e44a7e4c8085742070f84269e910573f2cf48f85c49fa1b0e5e08fbf6f6",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_000_003\\map_d_000_003.tpk.0000",
+      "payload_sha256": "159827199f255892b4a39aed02cc7ed9d118ccf6b2ff2634d49f18f8fbe8a72a",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_000_003.tpk.0000",
+        "original_size": 153040
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_000_004.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_000_004.tpk",
+      "template_sha256": "2c13ae3360d35ff380f86b631378543b3a061ab61594256b6ff5fd3e88ab0e10",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_000_004.tpk.replacements.json",
+      "manifest_sha256": "0a246f19c2d184c2894baeda80274e1e2b9b6cdbf9b7ab1d5e45a8ab650468a4",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_000_004\\map_d_000_004.tpk.0000",
+      "payload_sha256": "11a44fecf3cdb0df59a4486067a8534bf58ac92f8e5a894f794daf034b7a9b88",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_000_004.tpk.0000",
+        "original_size": 343616
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_000_005.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_000_005.tpk",
+      "template_sha256": "bf85f982ae83d1172c9987226475aecf5b520d0f29b40c81d725f747013438e4",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_000_005.tpk.replacements.json",
+      "manifest_sha256": "de306d02465df1d73e78153fb88317c3ceaec3942b77dd4c66785df90c641080",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_000_005\\map_d_000_005.tpk.0000",
+      "payload_sha256": "ae8447d7ddb11d4ddaad9b23f4c4e56c2ab51521854c6fdd4a87b50216abe452",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_000_005.tpk.0000",
+        "original_size": 179000
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_000_006.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_000_006.tpk",
+      "template_sha256": "47efb43450bc932e8cbd303efad2340ca1af8d866999ba511df1e86824934e7f",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_000_006.tpk.replacements.json",
+      "manifest_sha256": "eaa980a27d2fdfdd78f0ac66fab739d211a063b204fd313dbf9c7fb8e8ede96a",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_000_006\\map_d_000_006.tpk.0000",
+      "payload_sha256": "123cff9e4d131ec3aa8df64f4cc953fea4fae4846088a73d3013b35adcc08073",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_000_006.tpk.0000",
+        "original_size": 266712
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_001_001.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_001_001.tpk",
+      "template_sha256": "5af272729750b05f3df08275eeed1216fa38daa4ef358609d4c1249ecd435c48",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_001_001.tpk.replacements.json",
+      "manifest_sha256": "5cc82096c41e6ff0b6a266ae010a0275df4af93ac2457efd5b50717e789f007c",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_001_001\\map_d_001_001.tpk.0000",
+      "payload_sha256": "1238905cc2096c703d1bf16a553f0274575fc0c4bf6c1e9d1a0cfd6141fff652",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_001_001.tpk.0000",
+        "original_size": 374624
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_001_002.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_001_002.tpk",
+      "template_sha256": "755970c4cd305d30da747a1e485c609b1b7313c337944a311bf2c3fbc02492bb",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_001_002.tpk.replacements.json",
+      "manifest_sha256": "14813e58e2cb24ab100340c97363802b9377529b75f948f3ff81ca3316d1efe1",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_001_002\\map_d_001_002.tpk.0000",
+      "payload_sha256": "bd90d749584de682a0a12df120ab9826285b99e7653fd608a58915d933d4faaa",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_001_002.tpk.0000",
+        "original_size": 453992
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_001_003.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_001_003.tpk",
+      "template_sha256": "38e59a7a71c6506b85458ba76441c39f8cda7a4bee3909d726bbecd88019422b",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_001_003.tpk.replacements.json",
+      "manifest_sha256": "29ec06fa1011cc23fe862112b6bd0dfce2feae2ca736865a92337f7c4ec8c3f8",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_001_003\\map_d_001_003.tpk.0000",
+      "payload_sha256": "74c6f686887c4aed62db2a9b3dc074273cc262b41eb54ef1b471cb36cf053892",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_001_003.tpk.0000",
+        "original_size": 508104
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_001_004.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_001_004.tpk",
+      "template_sha256": "b93298377ff72e38718981174f3af6ced2a4093e82c27b4b1e0b0340519a445e",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_001_004.tpk.replacements.json",
+      "manifest_sha256": "79de5a8cf83c6a326dcfe2268835290cbf7f7cb2557910facc0752e330c265fa",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_001_004\\map_d_001_004.tpk.0000",
+      "payload_sha256": "4e987ecdddffcb214bf83e1a698d3c1b266640c3eda599422485dae947784e2c",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_001_004.tpk.0000",
+        "original_size": 531456
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_001_005.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_001_005.tpk",
+      "template_sha256": "b29448ec44d7aac4fdeaf17017ca0b7ae758f8f97fd56e9ee8c55ae8f489ea09",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_001_005.tpk.replacements.json",
+      "manifest_sha256": "a14fda7c7a3f5021a7cf8a18871c6e89a5bdc4d54762b1fab58b0acb7a608d7f",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_001_005\\map_d_001_005.tpk.0000",
+      "payload_sha256": "82d0dd53a4b18e917e8fcc9edff4cfaf679277b301feabac36a6d2f4bd790a54",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_001_005.tpk.0000",
+        "original_size": 154700
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_001_006.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_001_006.tpk",
+      "template_sha256": "79159eb9fd80a8debad04a60be2002d352829c8537e04d3225e21001ea12af58",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_001_006.tpk.replacements.json",
+      "manifest_sha256": "90e3c0add60516213245d2462fa91c0f55da62371a2aedca263ab694044e2668",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_001_006\\map_d_001_006.tpk.0000",
+      "payload_sha256": "0b32d0345677a606d72857967272505acfaad3fc1a7cc2dff59c2a78e48e72d5",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_001_006.tpk.0000",
+        "original_size": 667004
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_002_001.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_002_001.tpk",
+      "template_sha256": "6025c320bbacfa901dfc7da7d9a47c102858474bb978e992bd2cb229129127a8",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_002_001.tpk.replacements.json",
+      "manifest_sha256": "ad357f6143dce0001bbd18c511b6d90365bf80d6de27d693985a26fa80aba59a",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_002_001\\map_d_002_001.tpk.0000",
+      "payload_sha256": "971de8b52e803928952d17b1c851eb6c777f914dda6f763c08744b24659289b7",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_002_001.tpk.0000",
+        "original_size": 450420
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_002_002.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_002_002.tpk",
+      "template_sha256": "43e03c09699a03896b1c6cf33b17938a5e4b7435234f0b7250034c3cf7f6963d",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_002_002.tpk.replacements.json",
+      "manifest_sha256": "b874420f4c13e80a04dc3f5e4eab01c0c3be38b38909da3c8cd5e050d0bd477c",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_002_002\\map_d_002_002.tpk.0000",
+      "payload_sha256": "178b7d8293f471ab646e44b13220b605ed6c8ab289815adaf42edba20b423b4c",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_002_002.tpk.0000",
+        "original_size": 602888
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_002_003.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_002_003.tpk",
+      "template_sha256": "d422799ded7e598fcb1760d0b191c8c576735f65111e15c4b559f0bd555d12ae",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_002_003.tpk.replacements.json",
+      "manifest_sha256": "505897fcc7dc2495b0f0e35749af8bf598de527d7262ea17d685457db1cd9a4a",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_002_003\\map_d_002_003.tpk.0000",
+      "payload_sha256": "2700c113cbda036f61bbb2faa4c2077f674408ecea71d142330abb2fedd46dd4",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_002_003.tpk.0000",
+        "original_size": 565096
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_002_004.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_002_004.tpk",
+      "template_sha256": "a2a56740f9942afdd7c21462fb953055ca8ad9858dc6bfef0c23b5fc77044b65",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_002_004.tpk.replacements.json",
+      "manifest_sha256": "f51aabd461d62cd0d3f817acb742c952a2644a750df898a5bbf2d62fd1039516",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_002_004\\map_d_002_004.tpk.0000",
+      "payload_sha256": "193d44d3213e131785a5f6c22a77967ab66896268d1e196ea0269a1b9aad4af5",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_002_004.tpk.0000",
+        "original_size": 578328
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_002_005.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_002_005.tpk",
+      "template_sha256": "eaf1a8df811bfac5e59e4737cef59bfa24e7a57a16f93d76fd92cab2a083f499",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_002_005.tpk.replacements.json",
+      "manifest_sha256": "f7f01282dc28edf059853433eefc8575c9fc4563e00e25568f34bbc7180737e5",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_002_005\\map_d_002_005.tpk.0000",
+      "payload_sha256": "e6fa2dc8090a538dd0b01c10b728062415c0a2b8f91be5d3b05f1f3e33cfe357",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_002_005.tpk.0000",
+        "original_size": 147712
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_002_006.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_002_006.tpk",
+      "template_sha256": "09d41cb98a831121691772da456be3a36bd727bf40585249710508053bb1c7ae",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_002_006.tpk.replacements.json",
+      "manifest_sha256": "39b8d1072fc14a214489b17e76266d71416bb39ba402d4ccea70a607c7d9c38f",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_002_006\\map_d_002_006.tpk.0000",
+      "payload_sha256": "3f7b7f76f1fefa59bce6e503125adf926d4ca4852702880f5bdac1b2b080e169",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_002_006.tpk.0000",
+        "original_size": 777100
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_003_001.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_003_001.tpk",
+      "template_sha256": "ec1e582c821ad3c0679e0445c07f9c5c20ec2ac219a3ef886595211048e291e3",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_003_001.tpk.replacements.json",
+      "manifest_sha256": "79c2b60a4bd109e84302bd046d09fd5282bef25ae657656a5c81c7b7ce0152c6",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_003_001\\map_d_003_001.tpk.0000",
+      "payload_sha256": "2f77e6fea68ea700657e100511610c0ddcc9e50c009a774c6287a649da931a42",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_003_001.tpk.0000",
+        "original_size": 616340
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_003_002.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_003_002.tpk",
+      "template_sha256": "6cf99e647fc0843fbef38cad98124d538d4a071bf158b97e59b4eee88e5f231d",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_003_002.tpk.replacements.json",
+      "manifest_sha256": "f2278d5e70c6892a316707e0102ceb2c730ae67288ca78ddb556ed2abd59cc43",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_003_002\\map_d_003_002.tpk.0000",
+      "payload_sha256": "24778b4b1448eaa4f68b8af41709d1b9b41ec346050671fec8d00bd1c941e875",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_003_002.tpk.0000",
+        "original_size": 604768
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_003_003.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_003_003.tpk",
+      "template_sha256": "6be8a674a40b1d47306b1cb08a8fd8122b7e83f2588a1153db6c5d00878fc741",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_003_003.tpk.replacements.json",
+      "manifest_sha256": "e93f1671c2a03b52eeeecd2f80a1b1ff2351884fe49cd2d4da079e632078d049",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_003_003\\map_d_003_003.tpk.0000",
+      "payload_sha256": "07dc9eb3ab41f7de093724420ee6d7e1a269a487ab23c1ed851f9de510872fde",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_003_003.tpk.0000",
+        "original_size": 578484
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_003_004.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_003_004.tpk",
+      "template_sha256": "4b1576cd358e36bd376e4d538c5d101240a4c474796c3ed1309ed5ffddc0543c",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_003_004.tpk.replacements.json",
+      "manifest_sha256": "560ed97fbaf2f1806ce24fde617168342c4d4afee863ce5a1229f474ef034956",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_003_004\\map_d_003_004.tpk.0000",
+      "payload_sha256": "335caa2b3fb0a1d614f0119c817a2e6da0685efcd574a7b94219b948d80483ff",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_003_004.tpk.0000",
+        "original_size": 429520
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_003_005.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_003_005.tpk",
+      "template_sha256": "5e8df2dfb5d27edb04c8149b4bbd7864f6f3cabcc1a1845e6c5f54b64fe66890",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_003_005.tpk.replacements.json",
+      "manifest_sha256": "c2c7af3da4d0b28c6cc9783b412f0818628f171b5cea2afe2481a5b85a17eca0",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_003_005\\map_d_003_005.tpk.0000",
+      "payload_sha256": "8c33f6a9fb3b167f5c237b37eb7ae816f1b59035a3da335fb199d53bf2ef311c",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_003_005.tpk.0000",
+        "original_size": 159888
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_003_006.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_003_006.tpk",
+      "template_sha256": "7a37ad9c55726702cf73da6d89a6d35a0f03a2e9c3a7c1b65903c0663bb3d0f4",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_003_006.tpk.replacements.json",
+      "manifest_sha256": "8d9a1e599e7a003eb1f200b7c2503e5904d4d4122126a4b33862f8e3239c85be",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_003_006\\map_d_003_006.tpk.0000",
+      "payload_sha256": "b98641f3a00761d022bee4c33036988b62d843006175022fa5536cba36da802d",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_003_006.tpk.0000",
+        "original_size": 740020
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_004_001.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_004_001.tpk",
+      "template_sha256": "3bd7a9f179402e29d4b659690abdd8f78a058705f6f2d928cf415af8e967470a",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_004_001.tpk.replacements.json",
+      "manifest_sha256": "20dcdf383a202c83b4b80a715d8d1e2a6f8a6232eb18e2d65f991adb2e84cd38",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_004_001\\map_d_004_001.tpk.0000",
+      "payload_sha256": "52509f8d3e6149cf1ee48e4e067cb856d0d953004cf1c79ddfe95a6c576fee3c",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_004_001.tpk.0000",
+        "original_size": 502296
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_004_002.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_004_002.tpk",
+      "template_sha256": "920b91fd1f161b00a9bb71164937f8cc90df7495f646d6c1577e3360b43bf874",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_004_002.tpk.replacements.json",
+      "manifest_sha256": "6929491d92d5f71f862b23d07d6a5b5ec5999912883fea531cb280c2e64e4f87",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_004_002\\map_d_004_002.tpk.0000",
+      "payload_sha256": "eceb3b32f10bde9f8f0fc7d8638c9cd215c234d2390483f0639e4349af05f45a",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_004_002.tpk.0000",
+        "original_size": 458068
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_004_003.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_004_003.tpk",
+      "template_sha256": "718c22c781cf0d5ad62d2f9dba341d57766274aec8b2331963ec3f17509aa0ae",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_004_003.tpk.replacements.json",
+      "manifest_sha256": "ea7fffeb5f6a933f0980efeceee0b9ecbef4c5aa2bedd977ca1fac386b14edda",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_004_003\\map_d_004_003.tpk.0000",
+      "payload_sha256": "7087611790e222c187c64bb6e101b95408473feba60003c55067dac0511439b2",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_004_003.tpk.0000",
+        "original_size": 560836
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_004_004.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_004_004.tpk",
+      "template_sha256": "d8a9630de3d7e2d448f23114028b52d92dd81da2ea89569a222328098ac5cc3c",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_004_004.tpk.replacements.json",
+      "manifest_sha256": "3812e2cebc63b9cf17f3f8d3606cfd2e2ad82b5d256c9e99e6e5c8fe063802f8",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_004_004\\map_d_004_004.tpk.0000",
+      "payload_sha256": "858dc8bcbe10e457f848abc2e2cf723e568b8a4052e210f78656974ef5fe3c68",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_004_004.tpk.0000",
+        "original_size": 401040
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_004_005.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_004_005.tpk",
+      "template_sha256": "23a51419b721a125f59e305d895004686013145423ee044b738e1bf780f87487",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_004_005.tpk.replacements.json",
+      "manifest_sha256": "55bb88de293c197a8ee3bc2c417021f20bc43e81088ffe8981e839f1b6dc9052",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_004_005\\map_d_004_005.tpk.0000",
+      "payload_sha256": "f63802f33a3467932258104adcb4da854916e9bc189e0677c43f9f284be45c7c",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_004_005.tpk.0000",
+        "original_size": 167612
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_004_006.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_004_006.tpk",
+      "template_sha256": "225b56b7f58049660352355b1398dc6acc6e4fcffcb02d469a0fb3a8ed7d5fef",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_004_006.tpk.replacements.json",
+      "manifest_sha256": "2587b95ed91a896e3caec1b4ddf8e9fd2ba5e56e33a5e6fe1d9855bd7588adfb",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_004_006\\map_d_004_006.tpk.0000",
+      "payload_sha256": "23a2026156e1bb8f2d0fc48007af2bd520dc6a48933a65c29d29a0f1c4d2d27d",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_004_006.tpk.0000",
+        "original_size": 796192
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_005_001.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_005_001.tpk",
+      "template_sha256": "80fbf7e21175c56cf449bdec261cbd1dfa7691a7cf4ec8c31ccada315d232ea0",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_005_001.tpk.replacements.json",
+      "manifest_sha256": "2402bc1fa3341c92b6f5f32ed0c859a3c07beab85070164faabbefc7c0e6368a",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_005_001\\map_d_005_001.tpk.0000",
+      "payload_sha256": "11aecada754dfe70c2a1cede34986c3503a4f1d2390af500995b0bb43972a50b",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_005_001.tpk.0000",
+        "original_size": 472276
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_005_002.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_005_002.tpk",
+      "template_sha256": "854c43d3771cef7fcb2102c78672aeed3c4a12c9999039b58f8f296d2924643f",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_005_002.tpk.replacements.json",
+      "manifest_sha256": "2c2b602cf1f9021f76deefffccff18472728d82c428ce860acce84faf579dc76",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_005_002\\map_d_005_002.tpk.0000",
+      "payload_sha256": "e58719c55e1ac6959008836dd45cd454723d1b903c5707d04ae51f1121431f76",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_005_002.tpk.0000",
+        "original_size": 349528
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_005_003.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_005_003.tpk",
+      "template_sha256": "f6c1059f7d0416193cdb35a147bbaf9de67ffcaf6765fc52d69bb9719b7da9ae",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_005_003.tpk.replacements.json",
+      "manifest_sha256": "2d045af93e1dee214e1dcc417f22065fe62c62b49d32ee9d877522c91ce5aab3",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_005_003\\map_d_005_003.tpk.0000",
+      "payload_sha256": "76bf19416103525ec44e945b0d8699bb6ea8c75089177c7aa385507bbb4a3519",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_005_003.tpk.0000",
+        "original_size": 375376
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_005_004.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_005_004.tpk",
+      "template_sha256": "ffca52c35a18c98429f7aac01f74690b8e3d4eb50c58f1cfe333dc282cb4ae52",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_005_004.tpk.replacements.json",
+      "manifest_sha256": "e7955301dd86d7eabc7a010a925aad468e18905b3127de0a4fb984607abc8a2c",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_005_004\\map_d_005_004.tpk.0000",
+      "payload_sha256": "c6bf63ddae56bff1e7d3485102784b276f3cd2b3ffed06c7d5e5e37183f53d98",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_005_004.tpk.0000",
+        "original_size": 427608
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_005_005.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_005_005.tpk",
+      "template_sha256": "ea3082bdc9f43584516ecd2efc9bb392f0c87c27114e73522b769e66321eaab3",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_005_005.tpk.replacements.json",
+      "manifest_sha256": "c6a061b49d5889ee089816490621454e7c4e78d283fa4c368e3bc9e683ab219d",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_005_005\\map_d_005_005.tpk.0000",
+      "payload_sha256": "e0b8628bee50683f023cbb728b6769764211f0ef25b4f12c1a08805bbb59c92e",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_005_005.tpk.0000",
+        "original_size": 355968
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_005_006.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_005_006.tpk",
+      "template_sha256": "2e0454b02d47f089ff4a056eb5991253670b4bd0a0e0fc27ccb768d8ea443c9f",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_005_006.tpk.replacements.json",
+      "manifest_sha256": "8064fd05e30dea2091288832e4f0699d205904f2492b1d0d5efd2999b7120469",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_005_006\\map_d_005_006.tpk.0000",
+      "payload_sha256": "d6f9fd536c6b4703c37cfe72423f513ab5789eb6ba4d11ce7c08ffc7414b339c",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_005_006.tpk.0000",
+        "original_size": 359924
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_006_001.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_006_001.tpk",
+      "template_sha256": "d4070a3eb9b33794c6ebb6a2c0ef18879c7bebe24ab0b8b171fe2334de722d9e",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_006_001.tpk.replacements.json",
+      "manifest_sha256": "13935497a7f98e609c5acf17a9697f98c4e9ad2f5a44e573566fe3089270d7ea",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_006_001\\map_d_006_001.tpk.0000",
+      "payload_sha256": "28818399cddf6cc64137de7b4fee18f7df762a793e776309ee8778a2c1015006",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_006_001.tpk.0000",
+        "original_size": 451168
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_006_002.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_006_002.tpk",
+      "template_sha256": "eb2a76d0bd30fee36390aa8a913dd96c6b5600c82fdaf3a27b36af7fbdd3556a",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_006_002.tpk.replacements.json",
+      "manifest_sha256": "362ad30d2e080b1556ec0525cbd5c714e25eee9ca596e7b81541762aacefd28d",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_006_002\\map_d_006_002.tpk.0000",
+      "payload_sha256": "6547da49274aa326eb2ff697ea7c39a4c6ccef6a1b4835fe7fcdb06ad5e95ce6",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_006_002.tpk.0000",
+        "original_size": 450468
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_006_003.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_006_003.tpk",
+      "template_sha256": "3ee4cc3b1f24be47e88684c415bbf6c74f4954fcf32f615fa87e509e2c57369a",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_006_003.tpk.replacements.json",
+      "manifest_sha256": "bb452ad6c30722b89babe0cb6142ec26fc15b0eaa1d7881d881fae36140b3c69",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_006_003\\map_d_006_003.tpk.0000",
+      "payload_sha256": "86738c3e52a5e914bc7e825ba0202ad90d3dd65771450c0bc4c140c5ea5d2945",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_006_003.tpk.0000",
+        "original_size": 462268
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_006_004.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_006_004.tpk",
+      "template_sha256": "e15cefc350bc4bb70fa8657a88eb2c5828c366281002f03f8e0a7cc01dcdd065",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_006_004.tpk.replacements.json",
+      "manifest_sha256": "62d649d4f9eaa2a4668fa5ca9b234659c70361c78f70715217acef85e3d39796",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_006_004\\map_d_006_004.tpk.0000",
+      "payload_sha256": "7430ff3fabe67e253643c2186f8fa3907a669218293c101656474714e039353e",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_006_004.tpk.0000",
+        "original_size": 193224
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_006_005.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_006_005.tpk",
+      "template_sha256": "255b5fd1bcb5894abd95ebc6ee1528787ed04bcc4032d1fdf8f5311d3ab50f56",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_006_005.tpk.replacements.json",
+      "manifest_sha256": "1d88775d2a00f952a905f1e63256bb0a5144a6b8cfea839b788973e504d0280a",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_006_005\\map_d_006_005.tpk.0000",
+      "payload_sha256": "64901d8b6498d8b7a76af343b1c943207acf9fcf8a83ab094ce634afa9f876eb",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_006_005.tpk.0000",
+        "original_size": 98476
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_007_001.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_007_001.tpk",
+      "template_sha256": "4a860ad66d173d09cfd182550a00df6671ffd9de1597637d96bcc820138d0f7a",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_007_001.tpk.replacements.json",
+      "manifest_sha256": "5f739ff7598901826ca0c15666f47e97b1ca228c553e4554685f4c9ee0fbd823",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_007_001\\map_d_007_001.tpk.0000",
+      "payload_sha256": "a0b1668bf3f4a6e47e6dd161574a00581f1323f239552f0d4a1180b976cad0c3",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_007_001.tpk.0000",
+        "original_size": 382308
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_007_002.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_007_002.tpk",
+      "template_sha256": "75cc6ed70e76dadcfb493587e5c2857400112d1955ba470fb79e3653ec75c604",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_007_002.tpk.replacements.json",
+      "manifest_sha256": "18573a311d175759d56ea8b321beaa3e64fa22fa7703d3fe1f90750917f21ba6",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_007_002\\map_d_007_002.tpk.0000",
+      "payload_sha256": "d97137241fbd0a5bff8fa7f0a000f8471f25fe3b2e79de1d69ffa2b1bf484664",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_007_002.tpk.0000",
+        "original_size": 651056
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_007_003.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_007_003.tpk",
+      "template_sha256": "856dceef2f922477a2343fd99c2b1e25927b4358968d4900ded28fbd2f4a645a",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_007_003.tpk.replacements.json",
+      "manifest_sha256": "e41341af1b78fe1bbff3b3eabadddfc578e21384823180ef53c645ec58210a65",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_007_003\\map_d_007_003.tpk.0000",
+      "payload_sha256": "14819e56b6e64206bcea7fac70d88640403122eef01eba711db55c8701cf1802",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_007_003.tpk.0000",
+        "original_size": 750772
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_007_004.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_007_004.tpk",
+      "template_sha256": "1b58405e9b07194dbd783d4b4fb149d7556fd22a821291661d0a6b0391944eb3",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_007_004.tpk.replacements.json",
+      "manifest_sha256": "8c981e0afc8a7d0f788e55c8deb0130d6fbf8e49a0d2ad1a4be5f337db0f0ff2",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_007_004\\map_d_007_004.tpk.0000",
+      "payload_sha256": "57d6b5c78e3c3b4e2634cf9742b813472a6d199d6d18d05ca7b7115fb19d1448",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_007_004.tpk.0000",
+        "original_size": 708480
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_007_005.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_007_005.tpk",
+      "template_sha256": "31c5cb2bcddf4a9b040a351af73e67479138466c82eeebeeffb243ae919677e7",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_007_005.tpk.replacements.json",
+      "manifest_sha256": "36f77201fcbd6ade80e5384d83f9cfb6aa452c5cf6282dc1c4b166c4fe4b93de",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_007_005\\map_d_007_005.tpk.0000",
+      "payload_sha256": "c0784ec664c17c41a239899a2e9836b156e557fe045b772b53277855fa155216",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_007_005.tpk.0000",
+        "original_size": 746808
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_007_006.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_007_006.tpk",
+      "template_sha256": "c213eefa7ffee83daf247ae5256702df53cc39a92809a045ff7289bb4f6ef70f",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_007_006.tpk.replacements.json",
+      "manifest_sha256": "bfee844e6b2ceda1dc98a3697156c6f131bff557c26af09d8c3f50cdf48fb330",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_007_006\\map_d_007_006.tpk.0000",
+      "payload_sha256": "e29eec6233de23d5a7e13b1ec127023ac90118f3ab713dc055c6a2e47d460386",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_007_006.tpk.0000",
+        "original_size": 223816
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_008_001.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_008_001.tpk",
+      "template_sha256": "adb1d0cd5969c40a17d1c1a554dc24b4a9af197ef900c5a2ba9f0ffabcc2fa10",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_008_001.tpk.replacements.json",
+      "manifest_sha256": "33b683d0f8510fdcf5966514969f90be189ad3706c280a8f22f8c0f746ceeeee",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_008_001\\map_d_008_001.tpk.0000",
+      "payload_sha256": "7b002e40aadda75b420b41e83f3ad008e0ca6dafc32451ca66471e2a03884f24",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_008_001.tpk.0000",
+        "original_size": 346372
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_008_002.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_008_002.tpk",
+      "template_sha256": "d2f008710fdf0f2dfd554ee3b916d514d7c3d95ad7c2bf4ef11733a9efe39943",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_008_002.tpk.replacements.json",
+      "manifest_sha256": "cd3a00f9838e62897b61b32821f3e4ce5f7d860189e58e5c718060c85dad0936",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_008_002\\map_d_008_002.tpk.0000",
+      "payload_sha256": "7b05a123cf5f8b3b62755c55c0a0ebbcf6253504dd9fe17b10911526899b6dec",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_008_002.tpk.0000",
+        "original_size": 409536
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_008_003.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_008_003.tpk",
+      "template_sha256": "8525661ff605806d7850106b356fa0b2a36957e9b5ed212feb9764ba5d95b73e",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_008_003.tpk.replacements.json",
+      "manifest_sha256": "dfa0a2a743b20e2afb650b070245e993201a54ebc8334058df2753481b59936c",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_008_003\\map_d_008_003.tpk.0000",
+      "payload_sha256": "3cb1187dcdc8309bb16030a36702ffd7c363a5a065a7a4743aacd281f046800c",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_008_003.tpk.0000",
+        "original_size": 345148
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_008_004.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_008_004.tpk",
+      "template_sha256": "e4bdd5a693861cd37af11dca143a33cddd2987eed4dcb6a8cdc1c5606d2d52da",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_008_004.tpk.replacements.json",
+      "manifest_sha256": "88aa6e16a1cac33fa86fcfb0e6875a86e59de311713e4bc96ac5a8f8d07ffbac",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_008_004\\map_d_008_004.tpk.0000",
+      "payload_sha256": "def9f6b03b81df7214781031a038226fe7a8a88d71e5a6af307266377d05e305",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_008_004.tpk.0000",
+        "original_size": 260544
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_008_005.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_008_005.tpk",
+      "template_sha256": "2684e49c4bdffa384f03a2fb79892f08c7a16e2804c8a8b9e588bdcc56e72e50",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_008_005.tpk.replacements.json",
+      "manifest_sha256": "bec1253f1cd450302b42f0dce575af51df4bd0075395b010610320fdf50bf0f7",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_008_005\\map_d_008_005.tpk.0000",
+      "payload_sha256": "ce4aa5cb221e9c612717217981189c0cf63894e5b7786d840d1676bda0be1ae2",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_008_005.tpk.0000",
+        "original_size": 215352
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_008_006.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_008_006.tpk",
+      "template_sha256": "fd432eef0df68ed221692fa75e5ec2a23442d47962150573e2307e5e74d83cd8",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_008_006.tpk.replacements.json",
+      "manifest_sha256": "804c49d3a79a86a9dd7d9f67b657d77b48221d3bbdfd818fa6d128d6d1b20cf3",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_008_006\\map_d_008_006.tpk.0000",
+      "payload_sha256": "cd495b6810785fe43f7d67158c0238303b44b773b1d2a01a4e6d95525e2a92e7",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_008_006.tpk.0000",
+        "original_size": 130544
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    },
+    {
+      "container": "map_d_009_001.tpk",
+      "template": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\extracted\\map_scripts\\jp\\containers\\map_d_009_001.tpk",
+      "template_sha256": "bba5b2c65de9f9be4b6cd466cfe264de59e9488d7c787577abcfe23722712bf0",
+      "manifest": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\manifests\\inner\\map_d_009_001.tpk.replacements.json",
+      "manifest_sha256": "215053e32151924b89378a5f1eebfb3984b2bda32d6a9e384dda688201c46429",
+      "payload": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\payloads\\map_d_009_001\\map_d_009_001.tpk.0000",
+      "payload_sha256": "e03398f120d115ee9b591697539334528d127720f502dd1353b5460530f91d2c",
+      "entry": {
+        "index": 0,
+        "file_id": 0,
+        "name": "map_d_009_001.tpk.0000",
+        "original_size": 128672
+      },
+      "archive_metadata": {
+        "magic": "DSARCIDX",
+        "first_payload_offset": 516,
+        "record_size": 48
+      }
+    }
+  ]
+}

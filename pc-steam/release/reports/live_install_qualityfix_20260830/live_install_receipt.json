@@ -1,0 +1,62 @@
+{
+  "schema": "criminal-girls.live-install-qualityfix-receipt.v1",
+  "created_utc": "2026-08-30T08:42:25.5119785Z",
+  "status": "PASS",
+  "installed_to_game": true,
+  "transaction_id": "20260830_173733_591dcf900d504a6bb2864c8464f1ebfb",
+  "game_root": "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only",
+  "package": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\korean_patch_jp_antigravity_codex_qualityfix_20260830",
+  "package_manifest_sha256": "f831408e045056db2804058b25197cf04d1cd6378aa44a3d8868ea1de589735b",
+  "scenario_translation_map_sha256": "ac317543f7be54461b5932271fc7a9a39e0af565dc767f0f355e94c955e06e2d",
+  "scenario_quality_changed_uids": 7462,
+  "live_targets": [
+    {
+      "id": "data_jp",
+      "path": "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only\\data\\data_jp.dat",
+      "size": 1933754880,
+      "sha256": "abada4e6f5a40ed96ebc5fff53826cfae5a99e99df1ab58f76c9662b314b8355",
+      "expected_sha256": "abada4e6f5a40ed96ebc5fff53826cfae5a99e99df1ab58f76c9662b314b8355",
+      "verified": true
+    },
+    {
+      "id": "executable",
+      "path": "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only\\steam_criminal.exe",
+      "size": 2519040,
+      "sha256": "d53c0ee923d400348815ec22daac9e134010cdf566c1e9641f7a39eac21e2138",
+      "expected_sha256": "d53c0ee923d400348815ec22daac9e134010cdf566c1e9641f7a39eac21e2138",
+      "verified": true
+    }
+  ],
+  "preserved_english_archive": {
+    "path": "F:\\DOWN\\Criminal.Girls.Invite.Only\\Criminal.Girls.Invite.Only\\Criminal Girls Invite Only\\data\\data_en.dat",
+    "size": 1952906240,
+    "sha256": "d50e79521981f5ff970274f104af1dc62317848a3aa6fede2aafd78fdb1b494b",
+    "expected_sha256": "d50e79521981f5ff970274f104af1dc62317848a3aa6fede2aafd78fdb1b494b",
+    "verified": true
+  },
+  "state_file": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\install_backups\\scenario_qualityfix_20260830_live\\CriminalGirlsInviteOnly-KoreanPatch-v2\\current.json",
+  "backups": [
+    {
+      "id": "data_jp",
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\install_backups\\scenario_qualityfix_20260830_live\\CriminalGirlsInviteOnly-KoreanPatch-v2\\backups\\20260830_173733_591dcf900d504a6bb2864c8464f1ebfb\\data_jp.dat",
+      "size": 1931410944,
+      "sha256": "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+      "expected_sha256": "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+      "verified": true
+    },
+    {
+      "id": "executable",
+      "path": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\install_backups\\scenario_qualityfix_20260830_live\\CriminalGirlsInviteOnly-KoreanPatch-v2\\backups\\20260830_173733_591dcf900d504a6bb2864c8464f1ebfb\\steam_criminal.exe",
+      "size": 1929728,
+      "sha256": "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d",
+      "expected_sha256": "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d",
+      "verified": true
+    }
+  ],
+  "transaction_temp_count": 0,
+  "target_process_count": 0,
+  "defender_scan_report": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\reports\\live_install_qualityfix_20260830\\defender_scan.json",
+  "defender_scan_report_sha256": "23925a9cda0a5164fe919adb1c120b2f5bcd9620024f12f08dab3832090fc56d",
+  "runtime_launch": "NOT_RUN",
+  "manual_runtime_check": "PENDING"
+}

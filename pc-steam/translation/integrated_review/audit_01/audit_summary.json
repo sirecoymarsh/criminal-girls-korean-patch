@@ -1,0 +1,16 @@
+{
+  "stage": "integrated_review",
+  "review_scope": 2637,
+  "counts": {
+    "cjk_remaining": 0,
+    "kana_remaining": 0,
+    "fullwidth_alnum": 0,
+    "same_as_source": 0,
+    "particle_placeholders": 38,
+    "newline_mismatch": 0,
+    "length_outliers": 3,
+    "bracket_mismatch": 0,
+    "term_mismatch": 1,
+    "leading_trailing_space": 1
+  }
+}

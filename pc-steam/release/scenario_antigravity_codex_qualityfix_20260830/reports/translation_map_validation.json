@@ -1,0 +1,17 @@
+{
+  "catalog_count": 48296,
+  "translation_row_count": 48296,
+  "require_complete": true,
+  "status_counts": {
+    "translated": 48296
+  },
+  "error_count": 0,
+  "warning_count": 0,
+  "errors": [],
+  "warnings": [],
+  "pass": true,
+  "schema": "criminal-girls.bscr-translation-map-validation.v2",
+  "catalog": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\translation\\bscr_v2\\occurrence_catalog.jsonl",
+  "translation_map": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\release\\scenario_antigravity_codex_qualityfix_20260830\\translation\\translation_map.jsonl",
+  "fanout": null
+}

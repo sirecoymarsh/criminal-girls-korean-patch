@@ -1,0 +1,16 @@
+{
+    "schema":  "criminal-girls.extracted-zip-install-restore.v2",
+    "status":  "PASS",
+    "extracted_package":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\release_zip_extract_v2_20260813\\CriminalGirlsInviteOnly_KoreanPatch_v2",
+    "install_exit_code":  0,
+    "verify_installed_exit_code":  0,
+    "installed_state":  "korean",
+    "restore_exit_code":  0,
+    "verify_restored_exit_code":  0,
+    "restored_state":  "original",
+    "final_data_sha256":  "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+    "final_exe_sha256":  "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d",
+    "leftover_transaction_files":  [
+
+                                   ]
+}

@@ -1,0 +1,12 @@
+﻿{
+    "status":  "PASS",
+    "fixture":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\installer_full_fixture\\한글 게임 경로 with spaces",
+    "windows_powershell":  "5.1",
+    "original_unchanged":  true,
+    "install_pass":  true,
+    "idempotent_install":  true,
+    "powershell_51_state_write_bug_discovered_and_fixed":  true,
+    "fixed_restore_pass":  true,
+    "idempotent_restore":  true,
+    "leftover_transaction_files":  0
+}

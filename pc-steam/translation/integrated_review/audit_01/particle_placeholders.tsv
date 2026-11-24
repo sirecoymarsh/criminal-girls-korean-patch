@@ -1,0 +1,39 @@
+source_id	source_ja	draft_ko	meta
+src_0795	を使用しますか？	을(를) 사용하시겠습니까?	{"lanes": ["system_text"]}
+src_0949	は身を守っている	은(는) 몸을 지키고 있다	{"lanes": ["battle_text"]}
+src_0951	は力を溜めている	은(는) 힘을 모으고 있다	{"lanes": ["battle_text"]}
+src_0953	は逃げ出した	은(는) 도망쳤다	{"lanes": ["battle_text"]}
+src_0954	は仲間を呼んだ	은(는) 동료를 불렀다	{"lanes": ["battle_text"]}
+src_0955	が新たに出現した	이(가) 새로 나타났다	{"lanes": ["battle_text"]}
+src_0957	は攻撃をかわした	은(는) 공격을 피했다	{"lanes": ["battle_text"]}
+src_0958	は猛毒になった	은(는) 맹독에 걸렸다	{"lanes": ["battle_text"]}
+src_0959	は麻痺になった	은(는) 마비됐다	{"lanes": ["battle_text"]}
+src_0960	は入れ替え禁止になった	은(는) 교대 금지 상태가 됐다	{"lanes": ["battle_text"]}
+src_0961	は混乱した	은(는) 혼란에 빠졌다	{"lanes": ["battle_text"]}
+src_0963	はしびれて動けない	은(는) 마비되어 움직일 수 없다	{"lanes": ["battle_text"]}
+src_0964	は眠っている	은(는) 잠들어 있다	{"lanes": ["battle_text"]}
+src_0965	は混乱している	은(는) 혼란에 빠져 있다	{"lanes": ["battle_text"]}
+src_0976	を倒した	을(를) 쓰러뜨렸다	{"lanes": ["battle_text"]}
+src_0978	使った	을(를) 사용했다	{"lanes": ["battle_text"]}
+src_0982	癒しの力を使った	은(는) 치유의 힘을 사용했다	{"lanes": ["battle_text"]}
+src_0984	は明日を見つめた	은(는) 내일을 바라보았다	{"lanes": ["battle_text"]}
+src_0985	は防御した	은(는) 방어했다	{"lanes": ["battle_text"]}
+src_0990	は交代できない	은(는) 교대할 수 없다	{"lanes": ["battle_text"]}
+src_0991	と\nを交代しますか？	와(과)\n을(를) 교대하시겠습니까?	{"lanes": ["battle_text"]}
+src_0992	は逃走に失敗した	은(는) 도주에 실패했다	{"lanes": ["battle_text"]}
+src_0994	ＯＰを援助してもらった	은(는) OP를 지원받았다	{"lanes": ["battle_text"]}
+src_0995	ＯＰを取り戻した	은(는) OP를 되찾았다	{"lanes": ["battle_text"]}
+src_0997	をいただいた	을(를) 받았다	{"lanes": ["battle_text"]}
+src_0998	を取り返した	을(를) 되찾았다	{"lanes": ["battle_text"]}
+src_1008	は無敵になった	은(는) 무적이 되었다	{"lanes": ["battle_text"]}
+src_1012	リキュアでＨＰが回復する	은(는) 리큐어로 HP를 회복한다	{"lanes": ["battle_text"]}
+src_1014	は威嚇をした	은(는) 위협했다	{"lanes": ["battle_text"]}
+src_1016	はＭＰの消費が０になった	은(는) MP 소비가 0이 되었다	{"lanes": ["battle_text"]}
+src_1018	は自動復活状態になった	은(는) 자동 부활 상태가 되었다	{"lanes": ["battle_text"]}
+src_1020	はご褒美をいただいた！！	은(는) 보상을 받았다!!	{"lanes": ["battle_text"]}
+src_1021	はご褒美をいただけなかった	은(는) 보상을 받지 못했다	{"lanes": ["battle_text"]}
+src_1022	は	은(는)	{"lanes": ["battle_text"]}
+src_1023	が	이(가)	{"lanes": ["battle_text"]}
+src_1025	を	을(를)	{"lanes": ["battle_text"]}
+src_2428	を実行します。\nよろしいですか？	을(를) 실행합니다.\n계속하시겠습니까?	{"lanes": ["punishment_text"]}
+src_2430	を入手しました。	을(를) 획득했습니다.	{"lanes": ["punishment_text"]}

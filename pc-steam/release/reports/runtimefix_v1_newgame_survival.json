@@ -1,0 +1,21 @@
+﻿{
+    "schema":  "criminal-girls.runtime-newgame-survival.v1",
+    "timestamp":  "2026-08-13T00:41:44.2727275+09:00",
+    "exe":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\runtime_review_jp_v1\\steam_criminal.exe",
+    "pid":  31624,
+    "hwnd":  5243492,
+    "language_byte":  1,
+    "windowed":  true,
+    "new_game_client_coordinate":  [
+                                       960,
+                                       405
+                                   ],
+    "wait_seconds":  25,
+    "survived":  true,
+    "responding":  true,
+    "exit_code":  null,
+    "application_error_count":  0,
+    "application_errors":  [
+
+                           ]
+}

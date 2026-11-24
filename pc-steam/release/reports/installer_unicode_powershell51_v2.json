@@ -1,0 +1,17 @@
+{
+    "schema":  "criminal-girls.installer-unicode-powershell51.v2",
+    "status":  "PASS",
+    "windows_powershell_version":  "5.1.26100.9168",
+    "fixture":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\한글 경로 설치 시험 v2 20260813",
+    "backup":  "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\workspace\\한글 경로 백업 시험 v2 20260813",
+    "install_exit_code":  0,
+    "verify_installed_exit_code":  0,
+    "installed_state":  "korean",
+    "restore_exit_code":  0,
+    "final_data_sha256":  "76bc6eaa12f11e8e6ff6e9fe2d6b8fee4c1bb1d045cab9b626dd098728ea4515",
+    "final_exe_sha256":  "d11a48646c212f6df29f778b2a1282aa30d62e4e61d8ecd8d3f8422e3ffa8c7d",
+    "hardlink_source_unchanged":  true,
+    "leftover_transaction_files":  [
+
+                                   ]
+}

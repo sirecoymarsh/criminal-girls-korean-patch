@@ -1,0 +1,989 @@
+{
+  "schema": "criminal-girls.bscr-injection-verification.v2",
+  "pass": true,
+  "source_file_count": 54,
+  "output_file_count": 54,
+  "verified_translation_count": 48296,
+  "runtime_text_encoding": "utf8_former_character_glyph_slots",
+  "font_report": "P:\\AI\\Codex\\projects\\criminal-girls-invite-only-ko\\staging\\korean_font_report.json",
+  "font_report_sha256": "22b7e3ea0394d74ba9786105ae972863bced34f094f160b1468bce4bdd37d2f8",
+  "runtime_surrogate_slot_count": 2405,
+  "empty_map": false,
+  "empty_map_byte_identical_roundtrip": null,
+  "error_count": 0,
+  "errors": [],
+  "files": [
+    {
+      "file": "map_d_000_001/map_d_000_001.tpk.0000",
+      "source_sha256": "54516b241bb865d9e9303110c9bcef409abd9fc8b42454c4459e88f20d3c7e6e",
+      "output_sha256": "7f95d2b4b976760b6407317a2df883f108ab72cefbca32e42fc7b2127a3888d5",
+      "byte_identical": false,
+      "translation_count": 255,
+      "pool_segment_count": 986,
+      "runtime_loader_string_count": 983,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 17418,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_000_002/map_d_000_002.tpk.0000",
+      "source_sha256": "70b1f29735c659ff07212d59d6caf46a0a084cfcfc767060fd471f00ef115c4b",
+      "output_sha256": "09883012c6906d6a002f474e7611c9c791c099ab1bea221c0255a46bdf7d3138",
+      "byte_identical": false,
+      "translation_count": 779,
+      "pool_segment_count": 1924,
+      "runtime_loader_string_count": 1922,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 58276,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_000_003/map_d_000_003.tpk.0000",
+      "source_sha256": "85bf9e888413eed0ebf1bbe3e5a84408a9d7cb3e9ba83114dad014a3d3b91ebe",
+      "output_sha256": "159827199f255892b4a39aed02cc7ed9d118ccf6b2ff2634d49f18f8fbe8a72a",
+      "byte_identical": false,
+      "translation_count": 187,
+      "pool_segment_count": 881,
+      "runtime_loader_string_count": 879,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 11907,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_000_004/map_d_000_004.tpk.0000",
+      "source_sha256": "31fdccf2371d506efacc1efd40b45b5f5a6829e6116742d44e1f1ba304fe3139",
+      "output_sha256": "11a44fecf3cdb0df59a4486067a8534bf58ac92f8e5a894f794daf034b7a9b88",
+      "byte_identical": false,
+      "translation_count": 687,
+      "pool_segment_count": 1760,
+      "runtime_loader_string_count": 1759,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 50928,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_000_005/map_d_000_005.tpk.0000",
+      "source_sha256": "af4ad7ef0cec1861b652b87ec3a14744e7aec87a3bb98bdc6a007a697331ce44",
+      "output_sha256": "ae8447d7ddb11d4ddaad9b23f4c4e56c2ab51521854c6fdd4a87b50216abe452",
+      "byte_identical": false,
+      "translation_count": 244,
+      "pool_segment_count": 964,
+      "runtime_loader_string_count": 960,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 16770,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_000_006/map_d_000_006.tpk.0000",
+      "source_sha256": "873593d26f16e33f1711be68314381e1f28babe3d029359e26868348a0357c8e",
+      "output_sha256": "123cff9e4d131ec3aa8df64f4cc953fea4fae4846088a73d3013b35adcc08073",
+      "byte_identical": false,
+      "translation_count": 461,
+      "pool_segment_count": 1384,
+      "runtime_loader_string_count": 1380,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 33302,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_001_001/map_d_001_001.tpk.0000",
+      "source_sha256": "f04306f667c18b20bf492e93705206c2aa2c48a16c7c947d39aee55c14fa27c9",
+      "output_sha256": "1238905cc2096c703d1bf16a553f0274575fc0c4bf6c1e9d1a0cfd6141fff652",
+      "byte_identical": false,
+      "translation_count": 747,
+      "pool_segment_count": 1885,
+      "runtime_loader_string_count": 1881,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 56024,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_001_002/map_d_001_002.tpk.0000",
+      "source_sha256": "c2f7231488dc9877df7aac103fb42ed71908352bbb0a526857189d9b94ed57f9",
+      "output_sha256": "bd90d749584de682a0a12df120ab9826285b99e7653fd608a58915d933d4faaa",
+      "byte_identical": false,
+      "translation_count": 878,
+      "pool_segment_count": 2204,
+      "runtime_loader_string_count": 2202,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 68950,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_001_003/map_d_001_003.tpk.0000",
+      "source_sha256": "39073369fef8137149893ff2f2124f38739e9c621bd42955d442e1b7861e30d5",
+      "output_sha256": "74c6f686887c4aed62db2a9b3dc074273cc262b41eb54ef1b471cb36cf053892",
+      "byte_identical": false,
+      "translation_count": 1041,
+      "pool_segment_count": 2478,
+      "runtime_loader_string_count": 2476,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 80976,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_001_004/map_d_001_004.tpk.0000",
+      "source_sha256": "11a7458459c992466299db16a8fa95b8c251ff693573afa7d90abbaad1d2dc33",
+      "output_sha256": "4e987ecdddffcb214bf83e1a698d3c1b266640c3eda599422485dae947784e2c",
+      "byte_identical": false,
+      "translation_count": 1075,
+      "pool_segment_count": 2592,
+      "runtime_loader_string_count": 2589,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 85030,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_001_005/map_d_001_005.tpk.0000",
+      "source_sha256": "28b3153c2d3baac77b89953f224c626cc9fbe2f11a0a38b473d36d739c94bdb4",
+      "output_sha256": "82d0dd53a4b18e917e8fcc9edff4cfaf679277b301feabac36a6d2f4bd790a54",
+      "byte_identical": false,
+      "translation_count": 192,
+      "pool_segment_count": 852,
+      "runtime_loader_string_count": 851,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 12416,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_001_006/map_d_001_006.tpk.0000",
+      "source_sha256": "5474ba960babcc36e7b7548c8372005d9ef9bd4866852e292ffe97e5ead09567",
+      "output_sha256": "0b32d0345677a606d72857967272505acfaad3fc1a7cc2dff59c2a78e48e72d5",
+      "byte_identical": false,
+      "translation_count": 1934,
+      "pool_segment_count": 3235,
+      "runtime_loader_string_count": 3232,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 143287,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_002_001/map_d_002_001.tpk.0000",
+      "source_sha256": "3f26331107a8baebf7407fd9bc7a22fcf9bc76121af543b8abf4b8a9211465d9",
+      "output_sha256": "971de8b52e803928952d17b1c851eb6c777f914dda6f763c08744b24659289b7",
+      "byte_identical": false,
+      "translation_count": 859,
+      "pool_segment_count": 2147,
+      "runtime_loader_string_count": 2145,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 66059,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_002_002/map_d_002_002.tpk.0000",
+      "source_sha256": "ed92ffaebb2ab2ee2defe70377c0cf500b66262d0546fd8727c7f0a8094c50d4",
+      "output_sha256": "178b7d8293f471ab646e44b13220b605ed6c8ab289815adaf42edba20b423b4c",
+      "byte_identical": false,
+      "translation_count": 1075,
+      "pool_segment_count": 3171,
+      "runtime_loader_string_count": 3169,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 94965,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_002_003/map_d_002_003.tpk.0000",
+      "source_sha256": "d3ee03ebb88ca2d20eb9f8b7107ddd6fa9877630849c44dd86e4517eca42f568",
+      "output_sha256": "2700c113cbda036f61bbb2faa4c2077f674408ecea71d142330abb2fedd46dd4",
+      "byte_identical": false,
+      "translation_count": 1161,
+      "pool_segment_count": 2787,
+      "runtime_loader_string_count": 2783,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 91526,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_002_004/map_d_002_004.tpk.0000",
+      "source_sha256": "67e327962ffe8143f4a177f42c699e608f948f48735e14112626d2dafd452bb3",
+      "output_sha256": "193d44d3213e131785a5f6c22a77967ab66896268d1e196ea0269a1b9aad4af5",
+      "byte_identical": false,
+      "translation_count": 1140,
+      "pool_segment_count": 2774,
+      "runtime_loader_string_count": 2772,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 90051,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_002_005/map_d_002_005.tpk.0000",
+      "source_sha256": "61e7fe98eeb4a5fe8ad4c46a0114b2b4abc51e73a980826d7d48adbd64373971",
+      "output_sha256": "e6fa2dc8090a538dd0b01c10b728062415c0a2b8f91be5d3b05f1f3e33cfe357",
+      "byte_identical": false,
+      "translation_count": 179,
+      "pool_segment_count": 830,
+      "runtime_loader_string_count": 827,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 11575,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_002_006/map_d_002_006.tpk.0000",
+      "source_sha256": "1798af38497cd93bc9b4b9234de0db3784cccd2d009edbaf99dc8f4e866cde22",
+      "output_sha256": "3f7b7f76f1fefa59bce6e503125adf926d4ca4852702880f5bdac1b2b080e169",
+      "byte_identical": false,
+      "translation_count": 2205,
+      "pool_segment_count": 3748,
+      "runtime_loader_string_count": 3745,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 165217,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_003_001/map_d_003_001.tpk.0000",
+      "source_sha256": "521f5825cee6cfa7a9f435815267512cc36b00f47e75857dea3f0361c2081ba5",
+      "output_sha256": "2f77e6fea68ea700657e100511610c0ddcc9e50c009a774c6287a649da931a42",
+      "byte_identical": false,
+      "translation_count": 1235,
+      "pool_segment_count": 3059,
+      "runtime_loader_string_count": 3057,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 100557,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_003_002/map_d_003_002.tpk.0000",
+      "source_sha256": "4c0ff3b25a140f0db099966e9f3d2b12ff7bcbfd0d0d5a5d5096f52c7c240378",
+      "output_sha256": "24778b4b1448eaa4f68b8af41709d1b9b41ec346050671fec8d00bd1c941e875",
+      "byte_identical": false,
+      "translation_count": 1164,
+      "pool_segment_count": 2893,
+      "runtime_loader_string_count": 2891,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 90732,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_003_003/map_d_003_003.tpk.0000",
+      "source_sha256": "233c3b7d65d5fba5ea3bf14a75202f4ebbb8b58baeafd994235249dd0dd81507",
+      "output_sha256": "07dc9eb3ab41f7de093724420ee6d7e1a269a487ab23c1ed851f9de510872fde",
+      "byte_identical": false,
+      "translation_count": 1215,
+      "pool_segment_count": 2908,
+      "runtime_loader_string_count": 2905,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 93799,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_003_004/map_d_003_004.tpk.0000",
+      "source_sha256": "7fdeb09d54da622a53f9ade436c4f0f3e0372c33555362906e13ae53e769d8c0",
+      "output_sha256": "335caa2b3fb0a1d614f0119c817a2e6da0685efcd574a7b94219b948d80483ff",
+      "byte_identical": false,
+      "translation_count": 884,
+      "pool_segment_count": 2119,
+      "runtime_loader_string_count": 2117,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 69403,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_003_005/map_d_003_005.tpk.0000",
+      "source_sha256": "4b4d207c2f81cd946ad7dff224c22d3b228b6b98eaee0a1027ccd8a11e5da4bd",
+      "output_sha256": "8c33f6a9fb3b167f5c237b37eb7ae816f1b59035a3da335fb199d53bf2ef311c",
+      "byte_identical": false,
+      "translation_count": 208,
+      "pool_segment_count": 896,
+      "runtime_loader_string_count": 892,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 13420,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_003_006/map_d_003_006.tpk.0000",
+      "source_sha256": "508d6321d8e98dd2bf9e99a3ba9afa0c9b027aa921494d2a1315adefd43c548f",
+      "output_sha256": "b98641f3a00761d022bee4c33036988b62d843006175022fa5536cba36da802d",
+      "byte_identical": false,
+      "translation_count": 2079,
+      "pool_segment_count": 3694,
+      "runtime_loader_string_count": 3693,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 156238,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_004_001/map_d_004_001.tpk.0000",
+      "source_sha256": "e7b922f6ef26bd5b60970a692df7d4edbb2d1d8c7078b5aae7de96200d67d57c",
+      "output_sha256": "52509f8d3e6149cf1ee48e4e067cb856d0d953004cf1c79ddfe95a6c576fee3c",
+      "byte_identical": false,
+      "translation_count": 1001,
+      "pool_segment_count": 2466,
+      "runtime_loader_string_count": 2463,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 79812,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_004_002/map_d_004_002.tpk.0000",
+      "source_sha256": "e1b7421a4b030592e5a87ea435d7ca344c44ecfd98b35fb5d33d23de5402e48a",
+      "output_sha256": "eceb3b32f10bde9f8f0fc7d8638c9cd215c234d2390483f0639e4349af05f45a",
+      "byte_identical": false,
+      "translation_count": 951,
+      "pool_segment_count": 2256,
+      "runtime_loader_string_count": 2254,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 73073,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_004_003/map_d_004_003.tpk.0000",
+      "source_sha256": "8e373dc198ce80ee5b149da1dff98aad8704ee6a82cf9e59741465de9a6dacdc",
+      "output_sha256": "7087611790e222c187c64bb6e101b95408473feba60003c55067dac0511439b2",
+      "byte_identical": false,
+      "translation_count": 1149,
+      "pool_segment_count": 2704,
+      "runtime_loader_string_count": 2701,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 90665,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_004_004/map_d_004_004.tpk.0000",
+      "source_sha256": "dfc40d64d8b143dc64d84f009a4830d69ad7b9896532c38c1c07b8151caab77a",
+      "output_sha256": "858dc8bcbe10e457f848abc2e2cf723e568b8a4052e210f78656974ef5fe3c68",
+      "byte_identical": false,
+      "translation_count": 772,
+      "pool_segment_count": 1967,
+      "runtime_loader_string_count": 1965,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 58971,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_004_005/map_d_004_005.tpk.0000",
+      "source_sha256": "58407f90075d4060632fafb0d91d6c5d4753996fcc7995fdfa411a89b334227a",
+      "output_sha256": "f63802f33a3467932258104adcb4da854916e9bc189e0677c43f9f284be45c7c",
+      "byte_identical": false,
+      "translation_count": 220,
+      "pool_segment_count": 926,
+      "runtime_loader_string_count": 925,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 14444,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_004_006/map_d_004_006.tpk.0000",
+      "source_sha256": "08f615babbbc6c3f1b5d5e8748e009de202e066695c98fb939b5d594349ea4e9",
+      "output_sha256": "23a2026156e1bb8f2d0fc48007af2bd520dc6a48933a65c29d29a0f1c4d2d27d",
+      "byte_identical": false,
+      "translation_count": 2207,
+      "pool_segment_count": 3966,
+      "runtime_loader_string_count": 3962,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 169173,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_005_001/map_d_005_001.tpk.0000",
+      "source_sha256": "7d62e2cabcc573f595188a224c2b20fa1d17deaf5e7701f57b88a3698a219063",
+      "output_sha256": "11aecada754dfe70c2a1cede34986c3503a4f1d2390af500995b0bb43972a50b",
+      "byte_identical": false,
+      "translation_count": 914,
+      "pool_segment_count": 2245,
+      "runtime_loader_string_count": 2243,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 69597,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_005_002/map_d_005_002.tpk.0000",
+      "source_sha256": "67d75f064792a713ef455998a725863b51895c684f877a9e7bbee404a67b2b7d",
+      "output_sha256": "e58719c55e1ac6959008836dd45cd454723d1b903c5707d04ae51f1121431f76",
+      "byte_identical": false,
+      "translation_count": 694,
+      "pool_segment_count": 1824,
+      "runtime_loader_string_count": 1820,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 51803,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_005_003/map_d_005_003.tpk.0000",
+      "source_sha256": "f1574d4441393fdaa163f6cd73320f5ebec218f572da33220cfc96ee1b46851c",
+      "output_sha256": "76bf19416103525ec44e945b0d8699bb6ea8c75089177c7aa385507bbb4a3519",
+      "byte_identical": false,
+      "translation_count": 728,
+      "pool_segment_count": 1928,
+      "runtime_loader_string_count": 1924,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 55459,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_005_004/map_d_005_004.tpk.0000",
+      "source_sha256": "6b35255ee4413c486c21e884800034ec8478e6b009c30a33cc75525ad186576a",
+      "output_sha256": "c6bf63ddae56bff1e7d3485102784b276f3cd2b3ffed06c7d5e5e37183f53d98",
+      "byte_identical": false,
+      "translation_count": 844,
+      "pool_segment_count": 2084,
+      "runtime_loader_string_count": 2083,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 64053,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_005_005/map_d_005_005.tpk.0000",
+      "source_sha256": "0b1d90f54dece7ecf23aa3a52e631c04f65e6dd7425a3dd454f4aca6add653ef",
+      "output_sha256": "e0b8628bee50683f023cbb728b6769764211f0ef25b4f12c1a08805bbb59c92e",
+      "byte_identical": false,
+      "translation_count": 605,
+      "pool_segment_count": 1572,
+      "runtime_loader_string_count": 1571,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 48683,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_005_006/map_d_005_006.tpk.0000",
+      "source_sha256": "d6f5d5276434882aa130582d897542755b13b1a4e6b9ddd75eda2b9db97a1247",
+      "output_sha256": "d6f9fd536c6b4703c37cfe72423f513ab5789eb6ba4d11ce7c08ffc7414b339c",
+      "byte_identical": false,
+      "translation_count": 450,
+      "pool_segment_count": 1982,
+      "runtime_loader_string_count": 1980,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 43644,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_006_001/map_d_006_001.tpk.0000",
+      "source_sha256": "eb786cf6657b954a95a80f13f1b5bef80938b658e5871f1c9ac28515ce6569bc",
+      "output_sha256": "28818399cddf6cc64137de7b4fee18f7df762a793e776309ee8778a2c1015006",
+      "byte_identical": false,
+      "translation_count": 886,
+      "pool_segment_count": 2346,
+      "runtime_loader_string_count": 2343,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 69496,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_006_002/map_d_006_002.tpk.0000",
+      "source_sha256": "90ef4b3d4e9750574c3dd46e136d119ef556902d5bef91b2f0a9311036056c24",
+      "output_sha256": "6547da49274aa326eb2ff697ea7c39a4c6ccef6a1b4835fe7fcdb06ad5e95ce6",
+      "byte_identical": false,
+      "translation_count": 880,
+      "pool_segment_count": 2367,
+      "runtime_loader_string_count": 2363,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 68791,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_006_003/map_d_006_003.tpk.0000",
+      "source_sha256": "7b71f9dfc342989c6b0d65276244b829d523e8f795924381e9f8f930969709a8",
+      "output_sha256": "86738c3e52a5e914bc7e825ba0202ad90d3dd65771450c0bc4c140c5ea5d2945",
+      "byte_identical": false,
+      "translation_count": 888,
+      "pool_segment_count": 2398,
+      "runtime_loader_string_count": 2397,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 69695,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_006_004/map_d_006_004.tpk.0000",
+      "source_sha256": "1d6c6c01e179ad8a282006da24e394908c00b09f228236eb8ff64feec388f841",
+      "output_sha256": "7430ff3fabe67e253643c2186f8fa3907a669218293c101656474714e039353e",
+      "byte_identical": false,
+      "translation_count": 288,
+      "pool_segment_count": 1023,
+      "runtime_loader_string_count": 1021,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 19860,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_006_005/map_d_006_005.tpk.0000",
+      "source_sha256": "57e5cd61de7e9cf3f7546c10417db3a8b7eae17e9a1871ded3ebb850babe147d",
+      "output_sha256": "64901d8b6498d8b7a76af343b1c943207acf9fcf8a83ab094ce634afa9f876eb",
+      "byte_identical": false,
+      "translation_count": 102,
+      "pool_segment_count": 574,
+      "runtime_loader_string_count": 573,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 7405,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_007_001/map_d_007_001.tpk.0000",
+      "source_sha256": "0894b2d60d4a21dab475ded28491782f467a31a09b7c46b49857dd18d48a25ed",
+      "output_sha256": "a0b1668bf3f4a6e47e6dd161574a00581f1323f239552f0d4a1180b976cad0c3",
+      "byte_identical": false,
+      "translation_count": 725,
+      "pool_segment_count": 1920,
+      "runtime_loader_string_count": 1916,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 55283,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_007_002/map_d_007_002.tpk.0000",
+      "source_sha256": "b71a6dce6b0b21e4856e71fe1863a1954e586baa108061e8da4e1c30bc59befd",
+      "output_sha256": "d97137241fbd0a5bff8fa7f0a000f8471f25fe3b2e79de1d69ffa2b1bf484664",
+      "byte_identical": false,
+      "translation_count": 1935,
+      "pool_segment_count": 3177,
+      "runtime_loader_string_count": 3173,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 142497,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_007_003/map_d_007_003.tpk.0000",
+      "source_sha256": "0cb4686a8a4cc8018294e8a6d913f632dfe00ed41f351634212d9ef17b692c73",
+      "output_sha256": "14819e56b6e64206bcea7fac70d88640403122eef01eba711db55c8701cf1802",
+      "byte_identical": false,
+      "translation_count": 2206,
+      "pool_segment_count": 3660,
+      "runtime_loader_string_count": 3656,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 163867,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_007_004/map_d_007_004.tpk.0000",
+      "source_sha256": "eefaa07bc73a9fad7cc1ec575a895638c056d6dfdda7cb6910706393ea7be9c4",
+      "output_sha256": "57d6b5c78e3c3b4e2634cf9742b813472a6d199d6d18d05ca7b7115fb19d1448",
+      "byte_identical": false,
+      "translation_count": 2076,
+      "pool_segment_count": 3549,
+      "runtime_loader_string_count": 3547,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 153965,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_007_005/map_d_007_005.tpk.0000",
+      "source_sha256": "e7fea99e698c37c6bd3310f7c2378b6044859845848a7748f39ec20b81a712f5",
+      "output_sha256": "c0784ec664c17c41a239899a2e9836b156e557fe045b772b53277855fa155216",
+      "byte_identical": false,
+      "translation_count": 2208,
+      "pool_segment_count": 3867,
+      "runtime_loader_string_count": 3866,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 167470,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_007_006/map_d_007_006.tpk.0000",
+      "source_sha256": "5eb59ebaa42f74bbf085c53a0c1e0c15001436b862c300aaacaf4c2e907e8cc0",
+      "output_sha256": "e29eec6233de23d5a7e13b1ec127023ac90118f3ab713dc055c6a2e47d460386",
+      "byte_identical": false,
+      "translation_count": 444,
+      "pool_segment_count": 809,
+      "runtime_loader_string_count": 808,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 30586,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_008_001/map_d_008_001.tpk.0000",
+      "source_sha256": "084c7d561fedc2adeb7125fd4ee987c086dadd5d8ead055d9c8f3c301bc6c3d1",
+      "output_sha256": "7b002e40aadda75b420b41e83f3ad008e0ca6dafc32451ca66471e2a03884f24",
+      "byte_identical": false,
+      "translation_count": 697,
+      "pool_segment_count": 1788,
+      "runtime_loader_string_count": 1785,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 51430,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_008_002/map_d_008_002.tpk.0000",
+      "source_sha256": "98abd5ea6a87db0c3a4f7af54abd83b82eba6c42873d2667d23fb3f0062b5ee9",
+      "output_sha256": "7b05a123cf5f8b3b62755c55c0a0ebbcf6253504dd9fe17b10911526899b6dec",
+      "byte_identical": false,
+      "translation_count": 816,
+      "pool_segment_count": 2051,
+      "runtime_loader_string_count": 2047,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 62697,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_008_003/map_d_008_003.tpk.0000",
+      "source_sha256": "cfcb4cb721408a45413284bb2754355bbc0151c04e3465f030e86f9e9714e56a",
+      "output_sha256": "3cb1187dcdc8309bb16030a36702ffd7c363a5a065a7a4743aacd281f046800c",
+      "byte_identical": false,
+      "translation_count": 701,
+      "pool_segment_count": 1777,
+      "runtime_loader_string_count": 1773,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 52045,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_008_004/map_d_008_004.tpk.0000",
+      "source_sha256": "77824ff122fee21f2c7e4ecc0f3fce2479455ede6e03472c676180cec1b3b036",
+      "output_sha256": "def9f6b03b81df7214781031a038226fe7a8a88d71e5a6af307266377d05e305",
+      "byte_identical": false,
+      "translation_count": 399,
+      "pool_segment_count": 1272,
+      "runtime_loader_string_count": 1270,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 32823,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_008_005/map_d_008_005.tpk.0000",
+      "source_sha256": "4d060df694e695fadf5392e125454abe96fea625f1472592a739374182317466",
+      "output_sha256": "ce4aa5cb221e9c612717217981189c0cf63894e5b7786d840d1676bda0be1ae2",
+      "byte_identical": false,
+      "translation_count": 330,
+      "pool_segment_count": 1113,
+      "runtime_loader_string_count": 1111,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 22736,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_008_006/map_d_008_006.tpk.0000",
+      "source_sha256": "09a17f9f6852e7e3bb0c4d54b279f7932aea506ea47ded986e60bcf110533748",
+      "output_sha256": "cd495b6810785fe43f7d67158c0238303b44b773b1d2a01a4e6d95525e2a92e7",
+      "byte_identical": false,
+      "translation_count": 148,
+      "pool_segment_count": 772,
+      "runtime_loader_string_count": 770,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 8859,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    },
+    {
+      "file": "map_d_009_001/map_d_009_001.tpk.0000",
+      "source_sha256": "83eb708cbc54d3afb45bb324146cb8b68a97fc057f045f380d037ed9faa277e4",
+      "output_sha256": "e03398f120d115ee9b591697539334528d127720f502dd1353b5460530f91d2c",
+      "byte_identical": false,
+      "translation_count": 148,
+      "pool_segment_count": 766,
+      "runtime_loader_string_count": 762,
+      "all_pushes_resolve_in_runtime_table": true,
+      "exact_expected_bytes": true,
+      "diff": {
+        "changed_byte_count": 8645,
+        "unexpected_byte_count": 0,
+        "first_unexpected_offsets": [],
+        "pass": true
+      },
+      "errors": []
+    }
+  ]
+}
